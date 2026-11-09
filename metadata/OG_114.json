@@ -1,0 +1,216 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_114",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_114",
+      "dbfId": 38454,
+      "name": "금단의 의식",
+      "type": "SPELL",
+      "cardClass": "WARLOCK",
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 0,
+      "text": "[x]마나를 모두 소모합니다.\n소모한만큼 1/1 촉수를\n소환합니다.",
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "금단이라고는 하지만 크툰은 이 의식을 매우 지지합니다.",
+      "spellSchool": "SHADOW",
+      "portrait": "HS7-023_D.psd:90ea5e6ff13c35e40b3aa2eeafefbf06",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 9
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 1452,
+          "name": "수집품 관련 카드 데이터베이스 ID",
+          "value": 38453
+        },
+        {
+          "id": 1635,
+          "name": "주문 속성",
+          "value": 6
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_114.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-023_D.psd:90ea5e6ff13c35e40b3aa2eeafefbf06",
+      "goldenMaterial": "OG_114_PremiumCard.mat:71bef7ae7390f2d46abbfd65bbad2acb",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_114",
+    "dbfId": 38454,
+    "name": "금단의 의식",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 0,
+    "text": "[x]마나를 모두 소모합니다.\n소모한만큼 1/1 촉수를\n소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "금단이라고는 하지만 크툰은 이 의식을 매우 지지합니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS7-023_D.psd:90ea5e6ff13c35e40b3aa2eeafefbf06",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 38453
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_114.png"
+  },
+  "canonicalFields": [
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "spellSchool",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "attack",
+    "durability",
+    "flavor",
+    "health",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2016-07-13",
+      "build": "13619",
+      "source": "https://github.com/HearthSim/hsdata/blob/9ac5833db2745a8b2d5820cd9e2001947607c439/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20177158/하스스톤-업데이트-2016년-7월-13일-2016-07-13"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2021-03-26",
+      "build": "20.0.0.77662",
+      "source": "https://github.com/HearthSim/hsdata/blob/9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550",
+        "https://hearthstone.wiki.gg/wiki/Druid_of_the_Claw_%28Combined%29"
+      ],
+      "fields": [
+        "spellSchool"
+      ],
+      "kind": "card_change"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

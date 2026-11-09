@@ -1,1 +1,30 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_176","dbfId":38578,"name":"그림자 일격","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":3,"text":"피해를 받지 않은 캐릭터에게 피해를 $5 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"기습과 유사합니다. 대신 앞에서 찌르고, 두 번 더 찌른다는 게 차이점입니다.","spellSchool":"SHADOW","portrait":"HS7-123_D.psd:e0ed0c1d788f99340b5a880abbc3d093","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/OG_176.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-123_D.psd:e0ed0c1d788f99340b5a880abbc3d093","goldenMaterial":"OG_176_PremiumCard.mat:c3d0297db973c2f4e90ca40073129116","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_176",
+    "dbfId": 38578,
+    "name": "어둠의 일격",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "피해를 입지 않은 캐릭터 하나에게 피해를 5 줍니다.",
+    "mechanics": []
+  },
+  "2016-07-13": {
+    "text": "피해를 입지 않은<br></br>캐릭터 하나에게<br></br>피해를 5 줍니다."
+  },
+  "2016-08-10": {
+    "name": "그림자 일격"
+  },
+  "2017-08-09": {
+    "text": "피해를 받지 않은<br></br>캐릭터 하나에게<br></br>피해를 5 줍니다."
+  },
+  "2018-10-03": {
+    "text": "피해를 받지 않은 캐릭터에게 피해를 5 줍니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_209",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_209",
+      "dbfId": 38722,
+      "name": "승천한 할라질",
+      "type": "MINION",
+      "cardClass": "SHAMAN",
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 5,
+      "text": "<b>주문 공격력 +1</b>\n내 주문들이 <b>생명력_흡수</b>를 얻습니다.",
+      "attack": 4,
+      "health": 6,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "정령들이 자네를 파괴하고 날 치유할걸세!",
+      "spellSchool": "",
+      "portrait": "HS7-079_D.psd:1479e212bac35fb47a726441b1117334",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 32,
+          "name": "발동 효과 표시",
+          "value": 1
+        },
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 4
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 5
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 192,
+          "name": "주문 공격력",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 8
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 18
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 685,
+          "name": "생명력 흡수",
+          "value": 1
+        }
+      ],
+      "races": [
+        "ELEMENTAL"
+      ],
+      "race": "정령",
+      "classes": [],
+      "art": "art/OG_209.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-079_D.psd:1479e212bac35fb47a726441b1117334",
+      "goldenMaterial": "OG_209_PremiumCard.mat:25e4f299589a06a4f82715259e8f8f4f",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_209",
+    "dbfId": 38722,
+    "name": "승천한 할라질",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>주문 공격력 +1</b>\n내 주문들이 <b>생명력_흡수</b>를 얻습니다.",
+    "attack": 4,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "정령들이 자네를 파괴하고 날 치유할걸세!",
+    "spellSchool": "",
+    "portrait": "HS7-079_D.psd:1479e212bac35fb47a726441b1117334",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/OG_209.png"
+  },
+  "canonicalFields": [
+    "attack",
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "health",
+    "id",
+    "mechanics",
+    "name",
+    "race",
+    "races",
+    "rarity",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "durability",
+    "flavor",
+    "nativeTags",
+    "portrait",
+    "set",
+    "spellSchool"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "attack",
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "health",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2016-07-13",
+      "build": "13619",
+      "source": "https://github.com/HearthSim/hsdata/blob/9ac5833db2745a8b2d5820cd9e2001947607c439/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20177158/하스스톤-업데이트-2016년-7월-13일-2016-07-13"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2016-08-10",
+      "build": "6.0.0.13921",
+      "source": "https://github.com/HearthSim/hsdata/blob/ca84daa2932b1235f2f38da53e88a2aa2b190f4c/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20228506",
+        "https://hearthstone.wiki.gg/wiki/Slime_%28Mire_Keeper%29"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2017-07-11",
+      "build": "20022",
+      "source": "https://github.com/HearthSim/hsdata/blob/e3b02346a86a379c303b0452c461d4376e7a46ef/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20904301/爐石戰記更新-7-月-11-日-2017-7-11"
+      ],
+      "fields": [
+        "race",
+        "races"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2023-08-23",
+      "build": "27.2.0.183876",
+      "source": "https://github.com/HearthSim/hsdata/blob/0403e1f741685c19216e432ca8f097e07c7ff32e/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537",
+        "https://hearthstone.blizzard.com/ko-kr/news/23987538",
+        "https://outof.games/realms/hearthstone/patches/240-battlegrounds-season-5"
+      ],
+      "fields": [
+        "mechanics",
+        "text"
+      ],
+      "kind": "balance_cohort"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": [
+      "SPELLPOWER"
+    ]
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_073","dbfId":38395,"name":"엉겅퀴 차","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":6,"text":"카드를 뽑습니다. 그 카드를 복사하여\n2장 더 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"엉겅퀴는 따갑잖아요? 그런데 그런 걸로 왜 차를 달이는 거죠? 도적들은 도무지 이해할 수가 없다니까요.","spellSchool":"","portrait":"HS7-030_D.psd:b71fc601391e7d046b875ac15e873d46","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_073.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-030_D.psd:b71fc601391e7d046b875ac15e873d46","goldenMaterial":"OG_073_PremiumCard.mat:b112fefeda0e6c94493a2ed242d08120","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_073",
+    "dbfId": 38395,
+    "name": "엉겅퀴 차",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "카드를 1장 뽑습니다. 그 카드를 2장 더 복사하여 내 손으로 가져옵니다.",
+    "mechanics": []
+  },
+  "2017-08-09": {
+    "text": "카드를 1장 뽑습니다. 그 카드를 복사하여 2장 더 내 손으로 가져옵니다."
+  },
+  "2018-10-03": {
+    "text": "카드를 뽑습니다. 그 카드를 복사하여<br></br>2장 더 내 손으로 가져옵니다."
+  }
+}

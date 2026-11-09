@@ -1,0 +1,270 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_318",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_318",
+      "dbfId": 38944,
+      "name": "엘윈의 파멸 들창코",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 7,
+      "text": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/2 놀을 소환합니다.",
+      "attack": 6,
+      "health": 6,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "크툰마저도 자기 전에 침대 밑에 들창코가 없는지 확인한답니다.",
+      "spellSchool": "",
+      "portrait": "HS7-054_D.psd:b1c751baabd563e4ea758f3cd77deea9",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 32,
+          "name": "발동 효과 표시",
+          "value": 1
+        },
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 6
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 7
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 190,
+          "name": "도발",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 1452,
+          "name": "수집품 관련 카드 데이터베이스 ID",
+          "value": 39842
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_318.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-054_D.psd:b1c751baabd563e4ea758f3cd77deea9",
+      "goldenMaterial": "OG_318_PremiumCard.mat:3c575663353efb1429e99a805242ade2",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_318",
+    "dbfId": 38944,
+    "name": "엘윈의 파멸 들창코",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/2 놀을 소환합니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "크툰마저도 자기 전에 침대 밑에 들창코가 없는지 확인한답니다.",
+    "spellSchool": "",
+    "portrait": "HS7-054_D.psd:b1c751baabd563e4ea758f3cd77deea9",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 39842
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_318.png"
+  },
+  "canonicalFields": [
+    "attack",
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "health",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "durability",
+    "flavor",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set",
+    "spellSchool"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "attack",
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "health",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2017-08-09",
+      "build": "9.0.0.20457",
+      "source": "https://github.com/HearthSim/hsdata/blob/6f874a2b18045ed3464983aff85ca106bc656916/CardDefs.xml",
+      "dateSource": [
+        "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording_and_functionality"
+    },
+    {
+      "date": "2018-10-03",
+      "build": "26757",
+      "source": "https://github.com/HearthSim/hsdata/blob/60ceb7f7842724699adb79bee462d870b841de09/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/22546493",
+        "https://github.com/HearthSim/hsdata/commit/60ceb7f7842724699adb79bee462d870b841de09",
+        "https://www.inven.co.kr/webzine/news/?news=208062&vtype=pc",
+        "https://hs-exp.jp/2018-10-03/news-patch-12-2/"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

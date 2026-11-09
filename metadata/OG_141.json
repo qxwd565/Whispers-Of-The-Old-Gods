@@ -1,0 +1,203 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_141",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_141",
+      "dbfId": 38521,
+      "name": "얼굴 없는 괴수",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 10,
+      "text": "",
+      "attack": 10,
+      "health": 10,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "이름 후보: 집채만한 얼굴 없는 자, 얼큰이, 테디.",
+      "spellSchool": "",
+      "portrait": "HS7-041_D.psd:099a963c970758f42b2f85ab01f73b96",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 10
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 10
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 10
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_141.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-041_D.psd:099a963c970758f42b2f85ab01f73b96",
+      "goldenMaterial": "OG_141_PremiumCard.mat:a25d99de45f42c94592d9f52b83d60b2",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_141",
+    "dbfId": 38521,
+    "name": "얼굴 없는 괴수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 10,
+    "text": "",
+    "attack": 10,
+    "health": 10,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이름 후보: 집채만한 얼굴 없는 자, 얼큰이, 테디.",
+    "spellSchool": "",
+    "portrait": "HS7-041_D.psd:099a963c970758f42b2f85ab01f73b96",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_141.png"
+  },
+  "canonicalFields": [
+    "attack",
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "health",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "durability",
+    "flavor",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set",
+    "spellSchool"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "attack",
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "health",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

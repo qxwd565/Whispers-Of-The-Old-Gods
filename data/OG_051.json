@@ -1,1 +1,19 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_051","dbfId":38340,"name":"금단의 고대정령","type":"MINION","cardClass":"DRUID","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 마나를 모두 소모합니다. 소모한만큼 +1/+1을 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"이 고대정령은 주변 선술집에서 '박사 붐' 카드를 소매에 숨기고 있다가 발각되어 쫓겨났습니다.","spellSchool":"","portrait":"HS7-068_D.psd:7e84da3bd5ffdfe40940a6ff4cff6362","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_051.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-068_D.psd:7e84da3bd5ffdfe40940a6ff4cff6362","goldenMaterial":"OG_051_PremiumCard.mat:bd4363e59359cd143a64d940432c4944","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_051",
+    "dbfId": 38340,
+    "name": "금단의 고대정령",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 마나를 모두 소모합니다. 소모한만큼 +1/+1을 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  }
+}

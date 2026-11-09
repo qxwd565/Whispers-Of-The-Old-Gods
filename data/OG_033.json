@@ -1,1 +1,22 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_033","dbfId":38279,"name":"뻗어나온 촉수","type":"WEAPON","cardClass":"WARRIOR","rarity":"EPIC","collectible":true,"cost":5,"text":"[x]<b>죽음의 메아리:</b> 이\n무기를 내 손으로\n다시 가져옵니다.","attack":2,"health":2,"durability":2,"armor":0,"flavor":"네, 맞습니다. 가로쉬가 방금 촉수로 당신을 후려친 겁니다.","spellSchool":"","portrait":"HS7-084_D.psd:1df427ac7099f87419b0b2d5a9d091f9","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_033.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-084_D.psd:1df427ac7099f87419b0b2d5a9d091f9","goldenMaterial":"OG_033_PremiumCard.mat:a6488deefc554e4438750dd1eac5d4b9","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_033",
+    "dbfId": 38279,
+    "name": "뻗어나온 촉수",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b> 이 무기를 다시 내 손으로 가져옵니다.",
+    "attack": 2,
+    "durability": 2,
+    "mechanics": [
+      "DEATHRATTLE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>죽음의 메아리:</b> 이<br></br>무기를 내 손으로<br></br>다시 가져옵니다."
+  }
+}

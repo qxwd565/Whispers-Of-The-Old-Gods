@@ -1,0 +1,219 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_086",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_086",
+      "dbfId": 38413,
+      "name": "금단의 불꽃",
+      "type": "SPELL",
+      "cardClass": "MAGE",
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 0,
+      "text": "[x]마나를 모두 소모합니다.\n소모한만큼 하수인에게\n피해를 줍니다.",
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "경고: 고대 신학 박사 학위가 없는 자는 사용할 수 없습니다.",
+      "spellSchool": "FIRE",
+      "portrait": "HS7-006_D.psd:23670ded162db334d91ab48d3ff4f0fa",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 4
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 370,
+          "name": "주문 공격력 적용",
+          "value": 1
+        },
+        {
+          "id": 1635,
+          "name": "주문 속성",
+          "value": 2
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_086.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-006_D.psd:23670ded162db334d91ab48d3ff4f0fa",
+      "goldenMaterial": "OG_086_PremiumCard.mat:6f0e4ae684325104aa5f57424c0e14f0",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_086",
+    "dbfId": 38413,
+    "name": "금단의 불꽃",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 0,
+    "text": "[x]마나를 모두 소모합니다.\n소모한만큼 하수인에게\n피해를 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "경고: 고대 신학 박사 학위가 없는 자는 사용할 수 없습니다.",
+    "spellSchool": "FIRE",
+    "portrait": "HS7-006_D.psd:23670ded162db334d91ab48d3ff4f0fa",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 370,
+        "name": "주문 공격력 적용",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_086.png"
+  },
+  "canonicalFields": [
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "spellSchool",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "attack",
+    "durability",
+    "flavor",
+    "health",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2018-10-03",
+      "build": "26757",
+      "source": "https://github.com/HearthSim/hsdata/blob/60ceb7f7842724699adb79bee462d870b841de09/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/22546493",
+        "https://github.com/HearthSim/hsdata/commit/60ceb7f7842724699adb79bee462d870b841de09",
+        "https://www.inven.co.kr/webzine/news/?news=208062&vtype=pc",
+        "https://hs-exp.jp/2018-10-03/news-patch-12-2/"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording"
+    },
+    {
+      "date": "2021-03-26",
+      "build": "20.0.0.77662",
+      "source": "https://github.com/HearthSim/hsdata/blob/9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550",
+        "https://hearthstone.wiki.gg/wiki/Druid_of_the_Claw_%28Combined%29"
+      ],
+      "fields": [
+        "spellSchool"
+      ],
+      "kind": "card_change"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

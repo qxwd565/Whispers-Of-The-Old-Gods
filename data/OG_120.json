@@ -1,1 +1,28 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_120","dbfId":38463,"name":"아노말루스","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>죽음의 메아리:</b>\n<b>모든</b> 하수인에게\n피해를 8 줍니다.","attack":8,"health":6,"durability":0,"armor":0,"flavor":"원래 이름은 \"아아노오마알루우스으\"입니다.","spellSchool":"","portrait":"HS7-092_D.psd:399fb4c712ecd6b478be4526cb341ca0","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/OG_120.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-092_D.psd:399fb4c712ecd6b478be4526cb341ca0","goldenMaterial":"OG_120_PremiumCard.mat:94b6601469f6be24c885ca03bc83ca1b","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_120",
+    "dbfId": 38463,
+    "name": "아노말루스",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "classes": [],
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>죽음의 메아리:</b> <b>모든</b> 하수인에게 피해를 8 줍니다.",
+    "attack": 8,
+    "health": 6,
+    "mechanics": [
+      "DEATHRATTLE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>죽음의 메아리:</b><br></br><b>모든</b> 하수인에게<br></br>피해를 8 줍니다."
+  },
+  "2017-04-05": {
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령"
+  }
+}

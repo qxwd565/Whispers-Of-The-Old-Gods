@@ -1,0 +1,229 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_047",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_047",
+      "dbfId": 38334,
+      "name": "야생의 분노",
+      "type": "SPELL",
+      "cardClass": "DRUID",
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>선택 -</b> 이번 턴에 내 영웅에게 공격력을 +4 부여합니다. 또는 방어도를 +8 얻습니다.",
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "솔직히 말해, 분노하는 선택은 하나뿐입니다.",
+      "spellSchool": "",
+      "portrait": "HS7-061_D.psd:f28c852aab43be64fa4f14074c74f83e",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 2
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 443,
+          "name": "선택",
+          "value": 1
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_047.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-061_D.psd:f28c852aab43be64fa4f14074c74f83e",
+      "goldenMaterial": "OG_047_PremiumCard.mat:c3756b66fd8d36242add804606ac1df0",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_047",
+    "dbfId": 38334,
+    "name": "야생의 분노",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>선택 -</b> 이번 턴에 내 영웅에게 공격력을 +4 부여합니다. 또는 방어도를 +8 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "솔직히 말해, 분노하는 선택은 하나뿐입니다.",
+    "spellSchool": "",
+    "portrait": "HS7-061_D.psd:f28c852aab43be64fa4f14074c74f83e",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_047.png"
+  },
+  "canonicalFields": [
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "attack",
+    "durability",
+    "flavor",
+    "health",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set",
+    "spellSchool"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2016-07-13",
+      "build": "13619",
+      "source": "https://github.com/HearthSim/hsdata/blob/9ac5833db2745a8b2d5820cd9e2001947607c439/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20177158/하스스톤-업데이트-2016년-7월-13일-2016-07-13"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2016-11-30",
+      "build": "7.0.0.15590",
+      "source": "https://github.com/HearthSim/hsdata/blob/2155786e4175c66348b73037d3799c3fe96eeb6d/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20382066/하스스톤-업데이트-2016년-11월-30일-2016-11-30"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording"
+    },
+    {
+      "date": "2017-07-11",
+      "build": "20022",
+      "source": "https://github.com/HearthSim/hsdata/blob/e3b02346a86a379c303b0452c461d4376e7a46ef/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20904301/爐石戰記更新-7-月-11-日-2017-7-11"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "card_change"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": [
+      "CHOOSE_ONE"
+    ]
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

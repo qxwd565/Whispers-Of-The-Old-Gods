@@ -1,0 +1,251 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "policy": "Effective Korean patch day for already usable original card entities, independently of later expansion unlocks. Exact archive changes supply full state deltas; page publication timestamps alone do not set dates.",
+  "release": {
+    "effectiveDateKST": "2016-04-27",
+    "collectibleCount": 134,
+    "generatedCount": 29,
+    "laterAddedIds": [],
+    "sources": [
+      "launch_kr"
+    ],
+    "archive": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+    "archiveSha256": "148689642d3453832dc2503b3bd910d8a129f52725cc5a569da150fb6ad39958",
+    "limits": "Archive presence is combined with live parent availability and normal generation paths. No class or adventure unlock applies to these WoG parents."
+  },
+  "builds": {
+    "13619": {
+      "date": "2016-07-13",
+      "patch": "5.2.0.13619",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20177158/하스스톤-업데이트-2016년-7월-13일-2016-07-13"
+      ],
+      "kind": "card_change"
+    },
+    "13921": {
+      "date": "2016-08-10",
+      "patch": "6.0.0.13921",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20228506",
+        "https://hearthstone.wiki.gg/wiki/Slime_%28Mire_Keeper%29"
+      ],
+      "kind": "card_change"
+    },
+    "14830": {
+      "date": "2016-10-04",
+      "patch": "6.1.3.14830",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20303030",
+        "https://hearthstone.blizzard.com/ko-kr/news/20303031"
+      ],
+      "kind": "card_change"
+    },
+    "15181": {
+      "date": "2016-10-21",
+      "patch": "6.2.0.15181",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20328179/하스스톤-업데이트-2016년-10월-21일-2016-10-21"
+      ],
+      "kind": "bug_fix"
+    },
+    "18336": {
+      "date": "2017-04-05",
+      "patch": "8.0.0.18336",
+      "sources": [
+        "https://news.blizzard.com/ko-kr/article/20678265/4-5",
+        "https://www.inven.co.kr/webzine/news/?news=175598"
+      ],
+      "kind": "card_change"
+    },
+    "20022": {
+      "date": "2017-07-11",
+      "patch": "8.4.0.20022",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20904301/爐石戰記更新-7-月-11-日-2017-7-11"
+      ],
+      "kind": "card_change"
+    },
+    "20457": {
+      "date": "2017-08-09",
+      "patch": "9.0.0.20457",
+      "sources": [
+        "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9"
+      ],
+      "kind": "wording_and_functionality"
+    },
+    "23966": {
+      "date": "2018-04-11",
+      "patch": "11.0.0.23966",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/21694420"
+      ],
+      "kind": "keyword_wording"
+    },
+    "30795": {
+      "date": "2019-05-15",
+      "patch": "14.2.0.30795",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/22933721"
+      ],
+      "kind": "card_attribute"
+    },
+    "77662": {
+      "date": "2021-03-26",
+      "patch": "20.0.0.77662",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550",
+        "https://hearthstone.wiki.gg/wiki/Druid_of_the_Claw_%28Combined%29"
+      ],
+      "kind": "card_change"
+    },
+    "147348": {
+      "date": "2022-08-17",
+      "patch": "24.0.3.147348",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23840665",
+        "https://www.inven.co.kr/board/hs/3508/19122",
+        "https://hmseo91.tistory.com/1891"
+      ],
+      "kind": "card_change"
+    },
+    "158725": {
+      "date": "2022-11-30",
+      "patch": "25.0.0.158725",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860",
+        "https://www.inven.co.kr/board/hs/3508/19396"
+      ],
+      "kind": "card_change"
+    },
+    "170824": {
+      "date": "2023-04-05",
+      "patch": "26.0.0.170824",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23934449",
+        "https://hearthstone.wiki.gg/wiki/Druid_of_the_Claw_%28Combined%29"
+      ],
+      "kind": "card_change"
+    },
+    "183876": {
+      "date": "2023-08-23",
+      "patch": "27.2.0.183876",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537",
+        "https://hearthstone.blizzard.com/ko-kr/news/23987538",
+        "https://outof.games/realms/hearthstone/patches/240-battlegrounds-season-5"
+      ],
+      "kind": "balance_cohort"
+    },
+    "186852": {
+      "date": "2023-09-29",
+      "patch": "27.4.2.186852",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23999072",
+        "https://www.inven.co.kr/board/hs/3508/20029"
+      ],
+      "kind": "card_change"
+    },
+    "195635": {
+      "date": "2024-03-12",
+      "patch": "29.0.0.195635",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24064735"
+      ],
+      "kind": "keyword_wording"
+    },
+    "210009": {
+      "date": "2024-10-30",
+      "patch": "31.0.0.210009",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24149389"
+      ],
+      "kind": "card_change"
+    },
+    "217964": {
+      "date": "2025-03-19",
+      "patch": "32.0.0.217964",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24187196"
+      ],
+      "kind": "card_change"
+    },
+    "15590": {
+      "date": "2016-11-30",
+      "patch": "7.0.0.15590",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20382066/하스스톤-업데이트-2016년-11월-30일-2016-11-30"
+      ],
+      "kind": "wording"
+    },
+    "22611": {
+      "date": "2017-12-07",
+      "patch": "10.0.0.22611",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/21274279/12-7"
+      ],
+      "kind": "wording"
+    },
+    "26757": {
+      "date": "2018-10-03",
+      "patch": "12.2.0.26757",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/22546493",
+        "https://github.com/HearthSim/hsdata/commit/60ceb7f7842724699adb79bee462d870b841de09",
+        "https://www.inven.co.kr/webzine/news/?news=208062&vtype=pc",
+        "https://hs-exp.jp/2018-10-03/news-patch-12-2/"
+      ],
+      "kind": "wording"
+    },
+    "33717": {
+      "date": "2019-09-11",
+      "patch": "15.2.0.33717",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23097372"
+      ],
+      "kind": "wording"
+    },
+    "44222": {
+      "date": "2020-03-27",
+      "patch": "17.0.0.44222",
+      "sources": [
+        "https://news.blizzard.com/ko-kr/article/23357896/17-0-3-27"
+      ],
+      "kind": "wording"
+    },
+    "54613": {
+      "date": "2020-07-31",
+      "patch": "18.0.0.54613",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23463127",
+        "https://www.inven.co.kr/board/hs/3508/16549?p=84"
+      ],
+      "kind": "wording"
+    },
+    "58213": {
+      "date": "2020-09-09",
+      "patch": "18.2.0.58213",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23509390",
+        "https://hmseo91.tistory.com/972"
+      ],
+      "kind": "wording"
+    },
+    "254477": {
+      "date": "2026-10-14",
+      "patch": "37.0.0.254477",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24301454"
+      ],
+      "kind": "wording"
+    },
+    "43246": {
+      "date": "2020-03-18",
+      "patch": "16.6.0.43246",
+      "sources": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23319440"
+      ],
+      "kind": "balance"
+    }
+  }
+}

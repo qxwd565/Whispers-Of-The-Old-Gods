@@ -1,0 +1,2361 @@
+{
+  "schema": 1,
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "comparison": "Original schema1 current catalog to migrated schema1 current catalog. Evidence reviewed independently of the code that publishes the outputs.",
+  "changes": {
+    "OG_006": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_006a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_006b": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "1/1 은빛 성기사단\n멀록을 소환합니다.",
+        "after": "1/1 은빛 성기사단<br></br>멀록을 소환합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_023": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "하수인에게\n내 토템 하나당\n+1/+1을 부여합니다.",
+        "after": "하수인에게<br></br>내 토템 하나당<br></br>+1/+1을 부여합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_024": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_026": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b> <b>과부하</b>된\n내 마나 수정이 모두\n잠금 해제됩니다.",
+        "after": "<b>전투의 함성:</b> <b>과부하</b>된<br></br>내 마나 수정이 모두<br></br>잠금 해제됩니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_027": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 하수인들을\n비용이 (1) 높은\n무작위 하수인으로 변신시킵니다.",
+        "after": "내 하수인들을<br></br>비용이 (1) 높은<br></br>무작위 하수인으로 변신시킵니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_028": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>도발</b>, 이번 게임에서\n내가 소환한 토템 하나당 비용이 (1)씩 감소합니다.",
+        "after": "<b>도발</b>, 이번 게임에서<br></br>내가 소환한 토템 하나당 비용이 (1)씩 감소합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_031": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_031a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_033": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>죽음의 메아리:</b> 이\n무기를 내 손으로\n다시 가져옵니다.",
+        "after": "<b>죽음의 메아리:</b> 이<br></br>무기를 내 손으로<br></br>다시 가져옵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_034": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_042": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 턴이 끝날 때,\n내 덱에서 하수인을 소환합니다.",
+        "after": "내 턴이 끝날 때,<br></br>내 덱에서 하수인을 소환합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_044": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 <b>선택</b> 효과의\n두 능력이 모두 발동합니다.",
+        "after": "내 <b>선택</b> 효과의<br></br>두 능력이 모두 발동합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_044a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>속공</b>\n<b>도발</b>",
+        "after": "<b>속공</b><br></br><b>도발</b>",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_045": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_047": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_047a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_047b": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_048": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "하수인에게 +2/+2를 부여합니다. 대상이 야수면,\n카드를 뽑습니다.",
+        "after": "하수인에게 +2/+2를 부여합니다. 대상이 야수면,<br></br>카드를 뽑습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_051": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_058": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_061": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]피해를 $1 줍니다.\n1/1 파수견을\n소환합니다.",
+        "after": "피해를 1 줍니다.<br></br>1/1 파수견을<br></br>소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_061t": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_070": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_072": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_073": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "카드를 뽑습니다. 그 카드를 복사하여\n2장 더 내 손으로 가져옵니다.",
+        "after": "카드를 뽑습니다. 그 카드를 복사하여<br></br>2장 더 내 손으로 가져옵니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_080": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성과\n죽음의 메아리:</b> 무작위 <b>독극물</b> 카드를 내 손으로 가져옵니다.",
+        "after": "<b>전투의 함성과<br></br>죽음의 메아리:</b> 무작위 <b>독극물</b> 카드를 내 손으로 가져옵니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_080b": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_080c": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "아군 하수인을 내 손으로 다시 가져옵니다.\n그 하수인의 비용이\n(2) 감소합니다.",
+        "after": "아군 하수인을 내 손으로 다시 가져옵니다.<br></br>그 하수인의 비용이<br></br>(2) 감소합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_080d": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_080e": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_080f": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "피해를 $2 줍니다.",
+        "after": "피해를 2 줍니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_081": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>빙결</b> 상태인 하수인을\n처치합니다.",
+        "after": "<b>빙결</b> 상태인 하수인을<br></br>처치합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_082": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_083": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n모든 적 하수인에게\n피해를 1 줍니다.",
+        "after": "<b>전투의 함성:</b><br></br>모든 적 하수인에게<br></br>피해를 1 줍니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_085": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_086": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]마나를 모두 소모합니다.\n소모한만큼 하수인에게\n피해를 줍니다.",
+        "after": "마나를 모두 소모합니다.<br></br>소모한만큼 하수인에게<br></br>피해를 줍니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_087": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_090": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_094": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_096": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b> 내 크툰의 공격력이 10 이상이면, 내 영웅의 생명력을 #10 회복시킵니다.",
+        "after": "<b>전투의 함성:</b> 내 크툰의 공격력이 10 이상이면, 내 영웅의 생명력을 10 회복시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_100": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]공격력이 2 이하인\n<b>모든</b> 하수인을\n처치합니다.",
+        "after": "공격력이 2 이하인<br></br><b>모든</b> 하수인을<br></br>처치합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_101": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_102": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n아군 하수인과 능력치를 바꿉니다.",
+        "after": "<b>전투의 함성:</b><br></br>아군 하수인과 능력치를 바꿉니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_104": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]이번 턴에, 생명력을\n회복시키는 내 카드와\n능력들이 그만큼의\n피해를 줍니다.",
+        "after": "이번 턴에, 생명력을<br></br>회복시키는 내 카드와<br></br>능력들이 그만큼의<br></br>피해를 줍니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_109": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b>\n무작위로 카드를 버립니다.\n<b>죽음의 메아리:</b>\n카드를 뽑습니다.",
+        "after": "<b>전투의 함성:</b><br></br>무작위로 카드를 버립니다.<br></br><b>죽음의 메아리:</b><br></br>카드를 뽑습니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_113": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_114": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]마나를 모두 소모합니다.\n소모한만큼 1/1 촉수를\n소환합니다.",
+        "after": "마나를 모두 소모합니다.<br></br>소모한만큼 1/1 촉수를<br></br>소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_114a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_116": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>모든</b> 캐릭터에게 $13의 피해를 무작위로 나누어 입힙니다.",
+        "after": "<b>모든</b> 캐릭터에게 13의 피해를 무작위로 나누어 입힙니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_118": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_120": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n<b>모든</b> 하수인에게\n피해를 8 줍니다.",
+        "after": "<b>죽음의 메아리:</b><br></br><b>모든</b> 하수인에게<br></br>피해를 8 줍니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_121": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_122": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n바나나 2개를 내\n손으로 가져옵니다.",
+        "after": "<b>전투의 함성:</b><br></br>바나나 2개를 내<br></br>손으로 가져옵니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_123": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_131": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>도발</b>, <b>전투의 함성:</b>\n내 크툰의 공격력이 10\n이상이면, 다른 쌍둥이\n제왕을 소환합니다.",
+        "after": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 크툰의 공격력이 10<br></br>이상이면, 다른 쌍둥이<br></br>제왕을 소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_133": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b>\n이번 게임에서 죽은 내\n<b>죽음의 메아리</b> 하수인들을\n소환합니다.",
+        "after": "<b>전투의 함성:</b><br></br>이번 게임에서 죽은 내<br></br><b>죽음의 메아리</b> 하수인들을<br></br>소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_134": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_138": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 턴이 시작될 때,\n이 카드의 비용이\n(1) 감소합니다.",
+        "after": "내 턴이 시작될 때,<br></br>이 카드의 비용이<br></br>(1) 감소합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_141": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_142": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_145": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>도발</b>\n<b>천상의 보호막</b>",
+        "after": "<b>도발</b><br></br><b>천상의 보호막</b>",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_147": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n적 영웅의 생명력을\n#8 회복시킵니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>적 영웅의 생명력을<br></br>8 회복시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_149": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b>\n다른 <b>모든</b> 하수인에게\n피해를 1 줍니다.",
+        "after": "<b>전투의 함성:</b><br></br>다른 <b>모든</b> 하수인에게<br></br>피해를 1 줍니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_150": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_151": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n<b>모든</b> 하수인에게\n피해를 1 줍니다.",
+        "after": "<b>죽음의 메아리:</b><br></br><b>모든</b> 하수인에게<br></br>피해를 1 줍니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_152": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_153": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_156": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_156a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_158": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>죽음의 메아리:</b>\n무작위 아군 하수인에게\n+1/+1을 부여합니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>무작위 아군 하수인에게<br></br>+1/+1을 부여합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_161": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_162": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_173": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_173a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_174": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>도발</b>, <b>전투의 함성:</b>\n아군 하수인의 공격력과\n생명력을 복사합니다.",
+        "after": "<b>도발</b>, <b>전투의 함성:</b><br></br>아군 하수인의 공격력과<br></br>생명력을 복사합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_176": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "피해를 받지 않은 캐릭터에게 피해를 $5 줍니다.",
+        "after": "피해를 받지 않은 캐릭터에게 피해를 5 줍니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_179": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>죽음의 메아리:</b>\n무작위 적에게\n피해를 1 줍니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>무작위 적에게<br></br>피해를 1 줍니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_188": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>도발</b>, <b>전투의 함성:</b>\n내 크툰의 공격력이 10 이상이면, 생명력을 +5 얻습니다.",
+        "after": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 크툰의 공격력이 10 이상이면, 생명력을 +5 얻습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_195": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>선택 -</b> 1/1 위습을 7마리 소환합니다.\n또는 내 하수인들에게 +2/+2를 부여합니다.",
+        "after": "<b>선택 -</b> 1/1 위습을 7마리 소환합니다.<br></br>또는 내 하수인들에게 +2/+2를 부여합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_195a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_195b": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_195c": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_198": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]마나를 모두 소모합니다.\n소모한 마나의 두 배만큼\n생명력을 회복시킵니다.",
+        "after": "마나를 모두 소모합니다.<br></br>소모한 마나의 두 배만큼<br></br>생명력을 회복시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_200": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 턴이 시작될 때,\n이 하수인의 공격력을 7로 만듭니다.",
+        "after": "내 턴이 시작될 때,<br></br>이 하수인의 공격력을 7로 만듭니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_202": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_202a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_202b": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_202c": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_206": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "하수인에게 피해를 $4 줍니다. <b>과부하:</b> (1)",
+        "after": "하수인에게 피해를 4 줍니다. <b>과부하:</b> (1)",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_207": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n비용이 3인 무작위\n하수인을 소환합니다.",
+        "after": "<b>전투의 함성:</b><br></br>비용이 3인 무작위<br></br>하수인을 소환합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_209": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>주문 공격력 +1</b>\n내 주문들이 <b>생명력_흡수</b>를 얻습니다.",
+        "after": "<b>주문 공격력 +1</b><br></br>내 주문들이 <b>생명력_흡수</b>를 얻습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_211": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]동료 야수 3마리를\n모두 소환합니다.",
+        "after": "동료 야수 3마리를<br></br>모두 소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_216": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_216a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_218": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>도발</b>\n피해를 받은 상태면 공격력을 +3 얻습니다.",
+        "after": "<b>도발</b><br></br>피해를 받은 상태면 공격력을 +3 얻습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_220": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_221": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_222": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n내 <b>천상의 보호막</b> 하수인들에게 +1/+1을 부여합니다.",
+        "after": "<b>전투의 함성:</b><br></br>내 <b>천상의 보호막</b> 하수인들에게 +1/+1을 부여합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_223": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_229": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 턴이 끝날 때,\n피해를 받은 아군 캐릭터의 생명력을\n#8 회복시킵니다.",
+        "after": "내 턴이 끝날 때,<br></br>피해를 받은 아군 캐릭터의 생명력을<br></br>8 회복시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_234": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b>\n생명력을 #5 회복시킵니다.",
+        "after": "<b>전투의 함성:</b><br></br>생명력을 5 회복시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_239": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_241": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>죽음의 메아리:</b>\n1/1 어둠의 야수를\n소환합니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>1/1 어둠의 야수를<br></br>소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_241a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_247": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_248": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_249": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>도발</b>, <b>죽음의 메아리:</b>\n2/2 수액괴물을\n소환합니다.",
+        "after": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>2/2 수액괴물을<br></br>소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_249a": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_254": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b> 적의\n모든 <b>비밀</b>을 없앱니다.\n없앤 비밀 하나당\n+1/+1을 얻습니다.",
+        "after": "<b>전투의 함성:</b> 적의<br></br>모든 <b>비밀</b>을 없앱니다.<br></br>없앤 비밀 하나당<br></br>+1/+1을 얻습니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_255": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b> 내 크툰에게 +2/+2를 부여합니다. <i>(어디에 있든)</i>\n내 크툰이 죽었다면, 크툰을 내 덱에 섞어 넣습니다.",
+        "after": "<b>전투의 함성:</b> 내 크툰에게 +2/+2를 부여합니다. <i>(어디에 있든)</i><br></br>내 크툰이 죽었다면, 크툰을 내 덱에 섞어 넣습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_256": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n내 하수인들에게 +1/+1을 부여합니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>내 하수인들에게 +1/+1을 부여합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_267": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n내 무기에 공격력을\n+2 부여합니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>내 무기에 공격력을<br></br>+2 부여합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_271": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 턴이 시작될 때,\n이 하수인은 공격력이 2배가 됩니다.",
+        "after": "내 턴이 시작될 때,<br></br>이 하수인은 공격력이 2배가 됩니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_272": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n5/5 얼굴 없는 파괴자를 소환합니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>5/5 얼굴 없는 파괴자를 소환합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_272t": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_273": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "1/1 은빛 성기사단 신병을\n5명 소환합니다.",
+        "after": "1/1 은빛 성기사단 신병을<br></br>5명 소환합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_276": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_280": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_281": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_282": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b> 하수인을\n처치합니다. 그 하수인의\n공격력과 생명력을 내 크툰에게\n부여합니다. <i>(어디에 있든)</i>",
+        "after": "<b>전투의 함성:</b> 하수인을<br></br>처치합니다. 그 하수인의<br></br>공격력과 생명력을 내 크툰에게<br></br>부여합니다. <i>(어디에 있든)</i>",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_283": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>천상의 보호막</b>\n<b>전투의 함성:</b> 내 크툰에게\n+3/+3을 부여합니다.\n<i>(어디에 있든)</i>",
+        "after": "<b>천상의 보호막</b><br></br><b>전투의 함성:</b> 내 크툰에게<br></br>+3/+3을 부여합니다.<br></br><i>(어디에 있든)</i>",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_284": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>도발</b>, <b>전투의 함성:</b>\n내 크툰에게 +1/+1과 <b>도발</b>을 부여합니다.\n<i>(어디에 있든)</i>",
+        "after": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 크툰에게 +1/+1과 <b>도발</b>을 부여합니다.<br></br><i>(어디에 있든)</i>",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_286": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 턴이 끝날 때,\n내 크툰에게 +1/+1을 부여합니다.\n<i>(어디에 있든)</i>",
+        "after": "내 턴이 끝날 때,<br></br>내 크툰에게 +1/+1을 부여합니다.<br></br><i>(어디에 있든)</i>",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_290": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]내 턴이 시작될 때,\n내 덱에서 비용이 10인\n하수인을 내 손으로\n가져옵니다.",
+        "after": "내 턴이 시작될 때,<br></br>내 덱에서 비용이 10인<br></br>하수인을 내 손으로<br></br>가져옵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_291": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_292": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_293": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>도발</b>, <b>전투의 함성:</b>\n내 크툰에게 +4/+4를 부여합니다. <i>(어디에 있든)</i>",
+        "after": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 크툰에게 +4/+4를 부여합니다. <i>(어디에 있든)</i>",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_295": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n적 하수인 하나당\n내 영웅의 생명력을\n#2 회복시킵니다.",
+        "after": "<b>전투의 함성:</b><br></br>적 하수인 하나당<br></br>내 영웅의 생명력을<br></br>2 회복시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_300": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_301": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>전투의 함성:</b>\n내 크툰의 공격력이 10 이상이면, 방어도를 +10 얻습니다.",
+        "after": "<b>전투의 함성:</b><br></br>내 크툰의 공격력이 10 이상이면, 방어도를 +10 얻습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_302": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "하수인이 죽을 때마다\n내 크툰에게 +1/+1을 부여합니다.\n<i>(어디에 있든)</i>",
+        "after": "하수인이 죽을 때마다<br></br>내 크툰에게 +1/+1을 부여합니다.<br></br><i>(어디에 있든)</i>",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_303": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>주문 공격력 +1</b>, 내가 주문을\n시전한 후에, 내 크툰에게\n+1/+1을 부여합니다.\n<i>(어디에 있든)</i>",
+        "after": "<b>주문 공격력 +1</b>, 내가 주문을<br></br>시전한 후에, 내 크툰에게<br></br>+1/+1을 부여합니다.<br></br><i>(어디에 있든)</i>",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_308": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_309": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_310": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_311": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "성기사 하수인을 <b>발견</b>합니다.\n그 하수인에게 +2/+2를 부여합니다.",
+        "after": "성기사 하수인을 <b>발견</b>합니다.<br></br>그 하수인에게 +2/+2를 부여합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_312": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_313": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_314": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "하수인에게\n피해를 $1 줍니다. 그\n하수인이 생존하면, 2/2\n수액괴물을 소환합니다.",
+        "after": "하수인에게<br></br>피해를 1 줍니다. 그<br></br>하수인이 생존하면, 2/2<br></br>수액괴물을 소환합니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_314b": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_315": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_316": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_317": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n내 손의 모든 용족을 소환합니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>내 손의 모든 용족을 소환합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_318": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_318t": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_319": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_320": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b>\n내 손에 있는 카드 1장당\n공격력을 +1 얻습니다.",
+        "after": "<b>전투의 함성:</b><br></br>내 손에 있는 카드 1장당<br></br>공격력을 +1 얻습니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_321": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_322": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "내 무기의 비용이\n(2) 감소합니다.",
+        "after": "내 무기의 비용이<br></br>(2) 감소합니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_323": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "<b>죽음의 메아리:</b>\n카드를 뽑습니다.",
+        "after": "<b>죽음의 메아리:</b><br></br>카드를 뽑습니다.",
+        "reason": "Display newline normalization to <br></br>."
+      }
+    },
+    "OG_325": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_326": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_327": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_328": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>전투의 함성:</b>\n아군 하수인을 비용이 (1)\n높은 무작위 하수인으로\n변신시킵니다.",
+        "after": "<b>전투의 함성:</b><br></br>아군 하수인을 비용이 (1)<br></br>높은 무작위 하수인으로<br></br>변신시킵니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_330": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_334": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]<b>도발</b>, 캐릭터가 치유될\n때마다 내 크툰에게\n+1/+1을 부여합니다.\n<i>(어디에 있든)</i>",
+        "after": "<b>도발</b>, 캐릭터가 치유될<br></br>때마다 내 크툰에게<br></br>+1/+1을 부여합니다.<br></br><i>(어디에 있든)</i>",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_335": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_337": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_338": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "text": {
+        "before": "[x]상대편의 턴이\n시작될 때, 상대편이\n50%의 확률로 카드를\n1장 더 뽑습니다.",
+        "after": "상대편의 턴이<br></br>시작될 때, 상대편이<br></br>50%의 확률로 카드를<br></br>1장 더 뽑습니다.",
+        "reason": "Display normalization only: native [x] layout hints and $/# numeric markers are not literal card text; plain newlines use <br></br>."
+      }
+    },
+    "OG_339": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    },
+    "OG_340": {
+      "releaseStatus": {
+        "before": null,
+        "after": "verified",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      },
+      "releasedAt": {
+        "before": null,
+        "after": "2016-04-27",
+        "reason": "Verified Korean ordinary constructed-match first-use metadata."
+      }
+    }
+  },
+  "summary": {
+    "cards": 163,
+    "releaseMetadataCards": 163,
+    "displayTextCards": 78,
+    "newlineOnlyCards": 40,
+    "nativeMarkerCards": 38,
+    "otherCurrentChanges": 0
+  }
+}

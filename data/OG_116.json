@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_116","dbfId":38456,"name":"퍼져가는 광기","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":3,"text":"<b>모든</b> 캐릭터에게 $13의 피해를 무작위로 나누어 입힙니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"광기가 퍼지는 것을 막기 위해 어둠골의 주민들은 수술용 마스크를 착용하고 다닌답니다.","spellSchool":"SHADOW","portrait":"HS7-024_D.psd:cb58eacab98b82c44b04f7f43a3d468c","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":349,"name":"게임 태그 349","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/OG_116.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-024_D.psd:cb58eacab98b82c44b04f7f43a3d468c","goldenMaterial":"OG_116_PremiumCard.mat:1756a1c78a8ad744dab91ae3393541a6","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_116",
+    "dbfId": 38456,
+    "name": "퍼져가는 광기",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>모든</b> 캐릭터에게 9의 피해를 무작위로 나누어 입힙니다.",
+    "mechanics": []
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW"
+  },
+  "2023-08-23": {
+    "text": "<b>모든</b> 캐릭터에게 13의 피해를 무작위로 나누어 입힙니다."
+  }
+}

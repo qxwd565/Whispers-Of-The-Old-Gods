@@ -1,1 +1,18 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_118","dbfId":38461,"name":"어둠을 등지다","type":"SPELL","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":2,"text":"내 영웅 능력과 흑마법사 카드를 다른 직업의 것으로 교체합니다. 교체된 카드의 비용이 (1) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"어두운 날들이여, 모두 다 안녕!","spellSchool":"HOLY","portrait":"HS7-025_D.psd:a92ea5aec0ac2534cb60e718b02f22eb","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/OG_118.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-025_D.psd:a92ea5aec0ac2534cb60e718b02f22eb","goldenMaterial":"OG_118_PremiumCard.mat:d9325dab585eac741a16136c321cf161","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_118",
+    "dbfId": 38461,
+    "name": "어둠을 등지다",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 영웅 능력과 흑마법사 카드를 다른 직업의 것으로 교체합니다. 교체된 카드의 비용이 (1) 감소합니다.",
+    "mechanics": []
+  },
+  "2021-03-26": {
+    "spellSchool": "HOLY"
+  }
+}

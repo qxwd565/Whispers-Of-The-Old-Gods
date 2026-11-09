@@ -1,0 +1,144 @@
+{
+  "schema": 1,
+  "scope": "Verified dated rule-engine changes and bug fixes with no invented display-field delta. These are evidence records, not executable replay fields.",
+  "events": [
+    {
+      "effectiveDateKST": "2016-10-04",
+      "patch": "6.1.3.14830",
+      "kind": "functional_rule",
+      "cards": [
+        {
+          "id": "OG_134",
+          "dbfId": 38505,
+          "name": "희망의 끝 요그사론"
+        }
+      ],
+      "change": "Yogg stops casting if destroyed, silenced, transformed or returned to hand. Printed card text need not change.",
+      "sources": [
+        "6.1.3",
+        "6.1.3_announcement"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2016-10-21",
+      "patch": "6.2.0.15181",
+      "kind": "bug_fix",
+      "cards": [
+        {
+          "id": "OG_134",
+          "dbfId": 38505,
+          "name": "희망의 끝 요그사론"
+        }
+      ],
+      "change": "Yogg spells with Overload now properly apply Overload. This is later than the October 4 stop-casting nerf.",
+      "sources": [
+        "6.2"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2019-05-15",
+      "patch": "14.2.0.30795",
+      "kind": "bug_fix",
+      "cards": [
+        {
+          "id": "OG_338",
+          "dbfId": 39046,
+          "name": "어둠의 낚시꾼 내트"
+        }
+      ],
+      "change": "Fix Nat the Darkfisher triggering more often than its stated 50%.",
+      "sources": [
+        "14.2"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2020-03-18",
+      "patch": "16.6",
+      "kind": "functional_rule",
+      "cards": [
+        {
+          "id": "OG_134",
+          "dbfId": 38505,
+          "name": "희망의 끝 요그사론"
+        }
+      ],
+      "change": "Yogg resumes continued spell casting after leaving the battlefield; reversal of the 2016 stop rule.",
+      "sources": [
+        "16.6"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2025-03-19",
+      "patch": "32.0.0.217964",
+      "kind": "functional_rule",
+      "cards": [
+        {
+          "id": "OG_027",
+          "dbfId": 38266,
+          "name": "진화"
+        },
+        {
+          "id": "OG_328",
+          "dbfId": 39008,
+          "name": "진화의 대가"
+        }
+      ],
+      "change": "Global evolve rules cap the transformed result at 10 mana; applies to Evolve and Master of Evolution without requiring new printed text.",
+      "sources": [
+        "32.0"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "sources": {
+    "6.1.3": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20303030",
+      "inspection": "opened_text",
+      "evidence": "Korean title October 4, 2016; Call of the Wild costs 9 and Yogg stops when killed or silenced. Publication metadata October 3 is not the Korean effective date."
+    },
+    "6.1.3_announcement": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20303031",
+      "inspection": "indexed_excerpt",
+      "evidence": "Announcement additionally describes Yogg stopping after transformation or return to hand; its Overload bug will be corrected in a future patch, not this update."
+    },
+    "6.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20328179/하스스톤-업데이트-2016년-10월-21일-2016-10-21",
+      "inspection": "opened_text",
+      "evidence": "Korean title October 21, 2016; explicitly fixes Yogg applying Overload. Classic Murloc adjustments in the same notes are outside this repository."
+    },
+    "14.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/22933721",
+      "inspection": "opened_text",
+      "evidence": "Korean title May 15, 2019; adventure opens May 17. Explicit Nat the Darkfisher probability fix. The six choice-option mana costs are not itemized in prose."
+    },
+    "16.6": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23319440",
+      "inspection": "opened_text",
+      "evidence": "Korean title March 18, 2020; Call of the Wild 9 to 8 and Yogg continues casting after leaving the battlefield."
+    },
+    "32.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24187196",
+      "inspection": "opened_text",
+      "evidence": "Card changes apply March 19, 2025; Core rotation March 26 is separate. Also explicitly introduces a 10-mana upper limit for evolve effects."
+    },
+    "31.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24149389",
+      "inspection": "opened_text",
+      "evidence": "31.0 patch explicitly October 30, 2024; The Great Dark Beyond unlock November 6 is separate. OG_221 Draenei attribution comes from original archive delta, not Core/reprint inference."
+    }
+  },
+  "additionalScopedRules": [
+    {
+      "effectiveDateKST": "2024-10-30",
+      "patch": "31.0.0.210009",
+      "source": "31.0",
+      "scope": "CThun-related cards as a family",
+      "change": "Cards in this family can be generated, discovered or transformed into only when a related card was in the starting deck.",
+      "limits": "Official rule text inspected. Do not invent per-card printed-text changes; exact family membership requires separate card-tag evidence."
+    }
+  ]
+}

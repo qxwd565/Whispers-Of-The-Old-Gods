@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_152","dbfId":38533,"name":"기괴한 용매","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>질풍</b>","attack":5,"health":5,"durability":0,"armor":0,"flavor":"아마 타락에 가장 많이 영향을 받은 생물이지 않나 싶습니다.","spellSchool":"","portrait":"HS7-136_D.psd:14d764fe86febd3459de5b72f9291698","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/OG_152.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-136_D.psd:14d764fe86febd3459de5b72f9291698","goldenMaterial":"OG_152_PremiumCard.mat:47303828a241f0f4d8321029171f9e64","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_152",
+    "dbfId": 38533,
+    "name": "기괴한 용매",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>질풍</b>",
+    "attack": 5,
+    "health": 5,
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "mechanics": [
+      "WINDFURY"
+    ]
+  }
+}

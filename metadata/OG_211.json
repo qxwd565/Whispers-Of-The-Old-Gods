@@ -1,0 +1,219 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_211",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_211",
+      "dbfId": 38727,
+      "name": "야생의 부름",
+      "type": "SPELL",
+      "cardClass": "HUNTER",
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 8,
+      "text": "[x]동료 야수 3마리를\n모두 소환합니다.",
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "들어 봐, 미샤. 레오크랑 킁킁이가 야생에 풀리는 끔찍한 꿈을 꾸었어...",
+      "spellSchool": "",
+      "portrait": "HS7-155_D.psd:3d1bc22ad1f76ca4586b273c33d9a111",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 8
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 3
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_211.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-155_D.psd:3d1bc22ad1f76ca4586b273c33d9a111",
+      "goldenMaterial": "OG_211_PremiumCard.mat:07c255caf08a0d944b2fdb63f6cee04a",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_211",
+    "dbfId": 38727,
+    "name": "야생의 부름",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 8,
+    "text": "[x]동료 야수 3마리를\n모두 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "들어 봐, 미샤. 레오크랑 킁킁이가 야생에 풀리는 끔찍한 꿈을 꾸었어...",
+    "spellSchool": "",
+    "portrait": "HS7-155_D.psd:3d1bc22ad1f76ca4586b273c33d9a111",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_211.png"
+  },
+  "canonicalFields": [
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "attack",
+    "durability",
+    "flavor",
+    "health",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set",
+    "spellSchool"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2016-08-10",
+      "build": "6.0.0.13921",
+      "source": "https://github.com/HearthSim/hsdata/blob/ca84daa2932b1235f2f38da53e88a2aa2b190f4c/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20228506",
+        "https://hearthstone.wiki.gg/wiki/Slime_%28Mire_Keeper%29"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2016-10-04",
+      "build": "6.1.3.14830",
+      "source": "https://github.com/HearthSim/hsdata/blob/a1918ddc9710464419c983c1039094c5f35df984/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20303030",
+        "https://hearthstone.blizzard.com/ko-kr/news/20303031"
+      ],
+      "fields": [
+        "cost"
+      ],
+      "kind": "card_change"
+    },
+    {
+      "date": "2020-03-18",
+      "build": "43246",
+      "source": "https://github.com/HearthSim/hsdata/blob/880a9c120d53c05432593e9b3007ecf29f3ccb88/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23319440"
+      ],
+      "fields": [
+        "cost"
+      ],
+      "kind": "balance"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json"
+}

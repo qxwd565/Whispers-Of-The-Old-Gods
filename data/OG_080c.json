@@ -1,1 +1,27 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_080c","dbfId":38938,"name":"피엉겅퀴 독극물","type":"SPELL","cardClass":"ROGUE","rarity":null,"collectible":false,"cost":1,"text":"아군 하수인을 내 손으로 다시 가져옵니다.\n그 하수인의 비용이\n(2) 감소합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS7-125_D.psd:4c8283e04dc4a7e40a9b181ed283f2f1","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/OG_080c.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-125_D.psd:4c8283e04dc4a7e40a9b181ed283f2f1","goldenMaterial":"OG_080c_PremiumCard.mat:1aefe0b6eb266a540ae79dabfef36178","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_080c",
+    "dbfId": 38938,
+    "name": "피엉겅퀴 독극물",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "아군 하수인 하나를 다시 내 손으로 가져옵니다. 그 하수인은 비용이 (2) 감소합니다.",
+    "mechanics": []
+  },
+  "2016-11-30": {
+    "text": "아군 하수인 하나를 내 손으로 다시 가져옵니다. 그 하수인은 비용이 (2) 감소합니다."
+  },
+  "2017-08-09": {
+    "text": "아군 하수인 하나를 내 손으로 다시 가져옵니다. 그 하수인의 비용이 (2) 감소합니다."
+  },
+  "2018-10-03": {
+    "text": "아군 하수인을 내 손으로 다시 가져옵니다.<br></br>그 하수인의 비용이<br></br>(2) 감소합니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE"
+  }
+}

@@ -1,1 +1,26 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_174","dbfId":38569,"name":"얼굴 없는 불가사의","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":4,"text":"[x]<b>도발</b>, <b>전투의 함성:</b>\n아군 하수인의 공격력과\n생명력을 복사합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"\"저건 도대체 정체가 뭐지?!\" \"글쎄, 뭔가 이세라를 닮으려고 애를 쓰는 것 같은데.\"","spellSchool":"","portrait":"HS7_050_D.psd:efea65a1b8a046e47a902081ba108e43","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_174.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7_050_D.psd:efea65a1b8a046e47a902081ba108e43","goldenMaterial":"OG_174_PremiumCard.mat:6a4c8980ee994dc429b38e96bac13976","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_174",
+    "dbfId": 38569,
+    "name": "얼굴 없는 불가사의",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>도발</b><br></br><b>전투의 함성:</b> 아군 하수인 하나의 공격력과 생명력을 복사합니다.",
+    "attack": 1,
+    "health": 1,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ]
+  },
+  "2017-07-11": {
+    "text": "<b>도발</b>, <b>전투의 함성:</b> 아군 하수인 하나의 공격력과 생명력을 복사합니다."
+  },
+  "2018-10-03": {
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>아군 하수인의 공격력과<br></br>생명력을 복사합니다."
+  }
+}

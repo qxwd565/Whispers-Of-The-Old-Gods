@@ -1,1 +1,29 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_317","dbfId":38943,"name":"용족의 군주 데스윙","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":10,"text":"<b>죽음의 메아리:</b>\n내 손의 모든 용족을 소환합니다.","attack":12,"health":12,"durability":0,"armor":0,"flavor":"\"동족과 사이좋게 지내라\"는 말을 들은 데스윙이 무언가 배우긴 했나봅니다.","spellSchool":"","portrait":"HS7-139_D.psd:3284edfc2cf39d846bb3566000c1fa94","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":12},{"id":47,"name":"공격력","value":12},{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":4485,"name":"게임 태그 4485","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/OG_317.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-139_D.psd:3284edfc2cf39d846bb3566000c1fa94","goldenMaterial":"OG_317_PremiumCard.mat:992bc87833fcb264e8c6de34fe810e62","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_317",
+    "dbfId": 38943,
+    "name": "용족의 군주 데스윙",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>죽음의 메아리:</b> 내 손의 모든 용족을 전장에 놓습니다.",
+    "attack": 12,
+    "health": 12,
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "mechanics": [
+      "DEATHRATTLE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>죽음의 메아리:</b><br></br>내 손의 모든 용족을 전장에 놓습니다."
+  },
+  "2019-09-11": {
+    "text": "<b>죽음의 메아리:</b><br></br>내 손의 모든 용족을 소환합니다."
+  }
+}

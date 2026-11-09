@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "scope": "Only original schema1 endpoints; date-first canonical and -date endpoints retain exact presence.",
+  "legacyConsumer": "qxwd565/HSdeck-plugin 78ce6fdc4e70f689880a70d6f22aa77a6c75e337 (unmodified)",
+  "rules": [
+    "Absent combat stats use zero sentinels only in old outputs. Weapons retain the old health/durability mirror.",
+    "Current output changes are individually recorded in wog-current-diff.json.",
+    "Original keyword annotation conventions remain in schema1; intrinsic keyword abilities are canonical.",
+    "Old before-release fallback remains unchanged. Exact schema2 lookup gates verified first-use dates.",
+    "Future canonical edits propagate to both output families. Raw source and assets remain immutable."
+  ],
+  "limitations": [
+    "Old PHP cannot distinguish absent numeric fields from zero or implement arbitrary removals.",
+    "Old PHP whitelist omits races/classes/collectible and arbitrary effect fields. Historical raw native tags remain current-only in old outputs.",
+    "No plugin/site/database edits or live visual-rendering proof. The corpus includes one hero power unsupported by the old frame type switch.",
+    "Archive observation dates do not by themselves prove server-live Korean effective dates; unresolved intervals are separately retained."
+  ],
+  "preciseEndpoints": {
+    "cards": "cards-date.json",
+    "render": "render-date.json",
+    "history": "history-date.json"
+  },
+  "artRule": "Six root sibling endpoints retain the original art/<ID> URL base."
+}

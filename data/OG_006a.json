@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_006a","dbfId":38822,"name":"은빛 성기사단 멀록","type":"MINION","cardClass":"PALADIN","rarity":null,"collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-088_D.psd:557237c51e1713f4ab0d68444df4c42e","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/OG_006a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-088_D.psd:557237c51e1713f4ab0d68444df4c42e","goldenMaterial":"OG_006a_PremiumCard.mat:59acf7f6d258b7b44bb06340bf14cf6b","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_006a",
+    "dbfId": 38822,
+    "name": "은빛 성기사단 멀록",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "mechanics": []
+  }
+}

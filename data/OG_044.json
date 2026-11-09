@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_044","dbfId":38318,"name":"판드랄 스태그헬름","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"내 <b>선택</b> 효과의\n두 능력이 모두 발동합니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"매번 \"내가 세계수를 만들었을 시절에는 말이야...\"라는 말을 들먹입니다. 어휴, 지겨워서 원.","spellSchool":"","portrait":"HS7-112_D.psd:720593a5cf87d4a4381297b423e5c066","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1},{"id":443,"name":"선택","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_044.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-112_D.psd:720593a5cf87d4a4381297b423e5c066","goldenMaterial":"OG_044_PremiumCard.mat:fc74c88db25424549952437c95820a05","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_044",
+    "dbfId": 38318,
+    "name": "판드랄 스태그헬름",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 <b>선택</b> 카드들의<br></br>두 능력이 모두 발동합니다.",
+    "attack": 3,
+    "health": 5,
+    "mechanics": []
+  },
+  "2017-08-09": {
+    "text": "내 <b>선택</b> 효과의<br></br>두 능력이 모두 발동합니다."
+  },
+  "2025-03-19": {
+    "health": 6
+  }
+}

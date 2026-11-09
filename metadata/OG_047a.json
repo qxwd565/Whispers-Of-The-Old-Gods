@@ -1,0 +1,192 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_047a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_047a",
+      "dbfId": 38332,
+      "name": "가시뼈 진화",
+      "type": "SPELL",
+      "cardClass": "DRUID",
+      "rarity": null,
+      "collectible": false,
+      "cost": 3,
+      "text": "이번 턴에 내 영웅이 공격력을 +4 얻습니다.",
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "",
+      "spellSchool": "",
+      "portrait": "HS7-062_D.psd:1473fd8bbae6e0c40924bc1058f83459",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 2
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_047a.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-062_D.psd:1473fd8bbae6e0c40924bc1058f83459",
+      "goldenMaterial": "OG_047a_PremiumCard.mat:fa6cbce743a9f3542a3fb556efd8d61a",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_047a",
+    "dbfId": 38332,
+    "name": "가시뼈 진화",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": null,
+    "collectible": false,
+    "cost": 3,
+    "text": "이번 턴에 내 영웅이 공격력을 +4 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS7-062_D.psd:1473fd8bbae6e0c40924bc1058f83459",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_047a.png"
+  },
+  "canonicalFields": [
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "attack",
+    "durability",
+    "flavor",
+    "health",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set",
+    "spellSchool"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2017-08-09",
+      "build": "9.0.0.20457",
+      "source": "https://github.com/HearthSim/hsdata/blob/6f874a2b18045ed3464983aff85ca106bc656916/CardDefs.xml",
+      "dateSource": [
+        "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording_and_functionality"
+    },
+    {
+      "date": "2019-05-15",
+      "build": "14.2.0.30795",
+      "source": "https://github.com/HearthSim/hsdata/blob/32c8b31a69662efc5984a09f7ba5eaced12ff4c8/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/22933721"
+      ],
+      "fields": [
+        "cost"
+      ],
+      "kind": "card_attribute"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json",
+  "fieldUncertainty": {
+    "rarity": {
+      "status": "unresolved-historical-display",
+      "retainedValue": null,
+      "meaning": "Pinned exporter value retained. Exact archive rarity tags, including absence, are observations, not proof of a dated visible rarity change. No common rarity or fake absence is inferred."
+    }
+  }
+}

@@ -1,1 +1,24 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_080e","dbfId":38942,"name":"미명초잎 독극물","type":"SPELL","cardClass":"ROGUE","rarity":null,"collectible":false,"cost":1,"text":"내 다음 턴까지 아군 하수인에게 <b>은신</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"SHADOW","portrait":"HS7-129_D.psd:c37c8aaa058ee0b448b443ea2ecfb4c6","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/OG_080e.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-129_D.psd:c37c8aaa058ee0b448b443ea2ecfb4c6","goldenMaterial":"OG_080e_PremiumCard.mat:6d5267dd220c61047ae71f57e8daae35","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_080e",
+    "dbfId": 38942,
+    "name": "미명초잎 독극물",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "나의 다음 턴까지 아군 하수인 하나에게 <b>은신</b>을 부여합니다.",
+    "mechanics": []
+  },
+  "2016-08-10": {
+    "text": "내 다음 턴까지 아군 하수인 하나에게 <b>은신</b>을 부여합니다."
+  },
+  "2018-10-03": {
+    "text": "내 다음 턴까지 아군 하수인에게 <b>은신</b>을 부여합니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW"
+  }
+}

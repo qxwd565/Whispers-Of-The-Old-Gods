@@ -1,1 +1,26 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_006","dbfId":38227,"name":"썩은지느러미 심문관","type":"MINION","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 내 영웅 능력이 '1/1 은빛 성기사단 멀록을 소환합니다.'로 바뀝니다.","attack":1,"health":3,"durability":0,"armor":0,"flavor":"임무를 내려주십시옳!","spellSchool":"","portrait":"HS7-087_D.psd:0de1fe8da6e909d429fbc33182c9d740","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/OG_006.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-087_D.psd:0de1fe8da6e909d429fbc33182c9d740","goldenMaterial":"OG_006_PremiumCard.mat:4f13f2e78a0bc56498724722dfe5971d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_006",
+    "dbfId": 38227,
+    "name": "썩은지느러미 심문관",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 내 영웅 능력이 '1/1 은빛 성기사단 멀록을 1마리 소환합니다.'로 바뀝니다.",
+    "attack": 1,
+    "health": 3,
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2018-10-03": {
+    "text": "<b>전투의 함성:</b> 내 영웅 능력이 '1/1 은빛 성기사단 멀록을 소환합니다.'로 바뀝니다."
+  }
+}

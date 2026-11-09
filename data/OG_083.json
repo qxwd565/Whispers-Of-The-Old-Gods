@@ -1,1 +1,22 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_083","dbfId":38409,"name":"황혼의 불꽃소환사","type":"MINION","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b>\n모든 적 하수인에게\n피해를 1 줍니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"황혼의 고기소환사도 함께 부르면 더욱 좋겠군요!","spellSchool":"","portrait":"HS7-003_D.psd:559bbd473411a5a48b71146d96e1eb39","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_083.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-003_D.psd:559bbd473411a5a48b71146d96e1eb39","goldenMaterial":"OG_083_PremiumCard.mat:cd73516a3c2dd744cb9cbf631af940ab","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_083",
+    "dbfId": 38409,
+    "name": "황혼의 불꽃소환사",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 모든 적 하수인에게 피해를 1 줍니다.",
+    "attack": 2,
+    "health": 2,
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>전투의 함성:</b><br></br>모든 적 하수인에게<br></br>피해를 1 줍니다."
+  }
+}

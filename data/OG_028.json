@@ -1,1 +1,22 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_028","dbfId":38267,"name":"심연의 괴수","type":"MINION","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":6,"text":"<b>도발</b>, 이번 게임에서\n내가 소환한 토템 하나당 비용이 (1)씩 감소합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"심연에서 토템들과 어울리는 걸 즐깁니다.","spellSchool":"","portrait":"HS7-009_D.psd:eacf50ecadd9c5346a716e8528ac7439","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_028.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-009_D.psd:eacf50ecadd9c5346a716e8528ac7439","goldenMaterial":"OG_028_PremiumCard.mat:f5a1fc814e858ed408790e4193fada9d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_028",
+    "dbfId": 38267,
+    "name": "심연의 괴수",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b><br></br>이번 게임에서 내가 소환한 토템 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 5,
+    "health": 5,
+    "mechanics": [
+      "TAUNT"
+    ]
+  },
+  "2018-10-03": {
+    "text": "<b>도발</b>, 이번 게임에서<br></br>내가 소환한 토템 하나당 비용이 (1)씩 감소합니다."
+  }
+}

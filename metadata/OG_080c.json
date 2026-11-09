@@ -1,0 +1,230 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "OG_080c",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2016-04-27",
+    "status": "verified"
+  },
+  "availabilityScope": "Korean ordinary constructed-match use, including generated original entities. Client preload does not count. IDs and ownership are not inferred from prefixes.",
+  "baselineStatus": "partially-verified",
+  "confidenceNote": "All 163 identities, initial numbers, Korean archive text and card types cross-checked in the launch archive. Noncollectible rarity display and incompletely evidenced wording effective dates remain qualified; not every live build or game-rule effect is replayed.",
+  "sourceCommit": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "originalSource": {
+    "schemaVersion": 1,
+    "mode": "constructed",
+    "card": {
+      "id": "OG_080c",
+      "dbfId": 38938,
+      "name": "피엉겅퀴 독극물",
+      "type": "SPELL",
+      "cardClass": "ROGUE",
+      "rarity": null,
+      "collectible": false,
+      "cost": 1,
+      "text": "아군 하수인을 내 손으로 다시 가져옵니다.\n그 하수인의 비용이\n(2) 감소합니다.",
+      "attack": 0,
+      "health": 0,
+      "durability": 0,
+      "armor": 0,
+      "flavor": "",
+      "spellSchool": "NATURE",
+      "portrait": "HS7-125_D.psd:4c8283e04dc4a7e40a9b181ed283f2f1",
+      "set": "OG",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 7
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 1635,
+          "name": "주문 속성",
+          "value": 4
+        }
+      ],
+      "races": [],
+      "race": "",
+      "classes": [],
+      "art": "art/OG_080c.png"
+    },
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS7-125_D.psd:4c8283e04dc4a7e40a9b181ed283f2f1",
+      "goldenMaterial": "OG_080c_PremiumCard.mat:1aefe0b6eb266a540ae79dabfef36178",
+      "goldenAnimation": ""
+    }
+  },
+  "currentCatalog": {
+    "id": "OG_080c",
+    "dbfId": 38938,
+    "name": "피엉겅퀴 독극물",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "아군 하수인을 내 손으로 다시 가져옵니다.\n그 하수인의 비용이\n(2) 감소합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "NATURE",
+    "portrait": "HS7-125_D.psd:4c8283e04dc4a7e40a9b181ed283f2f1",
+    "set": "OG",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/OG_080c.png"
+  },
+  "canonicalFields": [
+    "cardClass",
+    "classes",
+    "collectible",
+    "cost",
+    "dbfId",
+    "id",
+    "mechanics",
+    "name",
+    "rarity",
+    "spellSchool",
+    "text",
+    "type"
+  ],
+  "currentOnlyFields": [
+    "armor",
+    "art",
+    "attack",
+    "durability",
+    "flavor",
+    "health",
+    "nativeTags",
+    "portrait",
+    "race",
+    "races",
+    "set"
+  ],
+  "historicalEvidence": [
+    {
+      "date": "2016-04-27",
+      "build": "5.0.0.12574",
+      "source": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+      "fields": [
+        "cardClass",
+        "classes",
+        "collectible",
+        "cost",
+        "dbfId",
+        "id",
+        "mechanics",
+        "name",
+        "rarity",
+        "text",
+        "type"
+      ]
+    },
+    {
+      "date": "2016-11-30",
+      "build": "7.0.0.15590",
+      "source": "https://github.com/HearthSim/hsdata/blob/2155786e4175c66348b73037d3799c3fe96eeb6d/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20382066/하스스톤-업데이트-2016년-11월-30일-2016-11-30"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording"
+    },
+    {
+      "date": "2017-08-09",
+      "build": "9.0.0.20457",
+      "source": "https://github.com/HearthSim/hsdata/blob/6f874a2b18045ed3464983aff85ca106bc656916/CardDefs.xml",
+      "dateSource": [
+        "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording_and_functionality"
+    },
+    {
+      "date": "2018-10-03",
+      "build": "26757",
+      "source": "https://github.com/HearthSim/hsdata/blob/60ceb7f7842724699adb79bee462d870b841de09/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/22546493",
+        "https://github.com/HearthSim/hsdata/commit/60ceb7f7842724699adb79bee462d870b841de09",
+        "https://www.inven.co.kr/webzine/news/?news=208062&vtype=pc",
+        "https://hs-exp.jp/2018-10-03/news-patch-12-2/"
+      ],
+      "fields": [
+        "text"
+      ],
+      "kind": "wording"
+    },
+    {
+      "date": "2021-03-26",
+      "build": "20.0.0.77662",
+      "source": "https://github.com/HearthSim/hsdata/blob/9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62/CardDefs.xml",
+      "dateSource": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550",
+        "https://hearthstone.wiki.gg/wiki/Druid_of_the_Claw_%28Combined%29"
+      ],
+      "fields": [
+        "spellSchool"
+      ],
+      "kind": "card_change"
+    }
+  ],
+  "undatedEvidence": [],
+  "keywordAbilityEvidence": {
+    "source": "tools/wog-ability-policy.json"
+  },
+  "legacyMechanicsConvention": {
+    "present": false,
+    "original": [],
+    "canonicalBaseline": []
+  },
+  "behaviorEvidence": "tools/wog-behavior-audit.json",
+  "sourceHistory": "tools/original-date-first-history.json",
+  "fieldUncertainty": {
+    "rarity": {
+      "status": "unresolved-historical-display",
+      "retainedValue": null,
+      "meaning": "Pinned exporter value retained. Exact archive rarity tags, including absence, are observations, not proof of a dated visible rarity change. No common rarity or fake absence is inferred."
+    }
+  }
+}

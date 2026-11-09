@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_216a","dbfId":38735,"name":"거미","type":"MINION","cardClass":"HUNTER","rarity":null,"collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-154_D.psd:b15d31766b60df64ebe723495c156b06","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":1440,"name":"선술집 단계","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/OG_216a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-154_D.psd:b15d31766b60df64ebe723495c156b06","goldenMaterial":"OG_216a_PremiumCard.mat:105a0661bee83184c895d236612f7f4e","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_216a",
+    "dbfId": 38735,
+    "name": "거미",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "mechanics": []
+  }
+}

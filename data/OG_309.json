@@ -1,1 +1,29 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_309","dbfId":38910,"name":"공주 후후란","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의_함성:</b> 아군 하수인의 <b>죽음의_메아리</b> 능력을 발동시킵니다.","attack":6,"health":5,"durability":0,"armor":0,"flavor":"언젠가는 인자한 왕자가 나타나 함께 수천 개의 알을 낳기를 바라며 오늘도 안퀴라즈를 날아다니고 있습니다.","spellSchool":"","portrait":"HS7-082_D.psd:a92dc4470ef553549a9e0fc67bb9b07e","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/OG_309.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-082_D.psd:a92dc4470ef553549a9e0fc67bb9b07e","goldenMaterial":"OG_309_PremiumCard.mat:ecf67bd4b99e66c419844228e276ed0f","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_309",
+    "dbfId": 38910,
+    "name": "공주 후후란",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 아군 하수인 하나의 <b>죽음의 메아리</b> 능력을 발동시킵니다.",
+    "attack": 6,
+    "health": 5,
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2018-04-11": {
+    "text": "<b>전투의_함성:</b> 아군 하수인 하나의 <b>죽음의_메아리</b> 능력을 발동시킵니다."
+  },
+  "2018-10-03": {
+    "text": "<b>전투의_함성:</b> 아군 하수인의 <b>죽음의_메아리</b> 능력을 발동시킵니다."
+  }
+}

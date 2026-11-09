@@ -1,1 +1,20 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_202c","dbfId":38921,"name":"수액괴물","type":"MINION","cardClass":"DRUID","rarity":null,"collectible":false,"cost":2,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-162_D.psd:5034eef0e802c334589c6b144f62ba8e","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/OG_202c.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-162_D.psd:5034eef0e802c334589c6b144f62ba8e","goldenMaterial":"OG_249a_PremiumCard.mat:c0ee9ce12cfd63649a9893c8282d30ec","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_202c",
+    "dbfId": 38921,
+    "name": "수액괴물",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "mechanics": []
+  },
+  "2016-08-10": {
+    "cost": 2
+  }
+}

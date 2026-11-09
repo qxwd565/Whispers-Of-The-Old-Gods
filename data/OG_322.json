@@ -1,1 +1,24 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_322","dbfId":38960,"name":"검은바다 해적","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":4,"text":"내 무기의 비용이\n(2) 감소합니다.","attack":2,"health":5,"durability":0,"armor":0,"flavor":"\"말했잖아, 배 뒤에서 떨어진 거라고. 살 거야, 말 거야? 나 이래 봬도 바쁜 사람이야! 10분 뒤에 이샤라즈 님 만나러 가야 돼.\"","spellSchool":"","portrait":"HS7-178_D.psd:e943455844ae1f945a755442842a19d8","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/OG_322.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-178_D.psd:e943455844ae1f945a755442842a19d8","goldenMaterial":"OG_322_PremiumCard.mat:b3c4a9ba86c139b4791c1552ccc993ab","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_322",
+    "dbfId": 38960,
+    "name": "검은바다 해적",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 무기의 비용이 (2) 감소합니다.",
+    "attack": 2,
+    "health": 5,
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "mechanics": []
+  },
+  "2016-08-10": {
+    "text": "내 무기의 비용이<br></br>(2) 감소합니다."
+  }
+}

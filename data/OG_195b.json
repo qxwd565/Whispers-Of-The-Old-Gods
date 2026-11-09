@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_195b","dbfId":38652,"name":"거대한 위습","type":"SPELL","cardClass":"DRUID","rarity":null,"collectible":false,"cost":7,"text":"내 하수인들에게 +2/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS7-151_D.psd:a9172a78ea9a5344bbebc5a585bffc5f","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/OG_195b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-151_D.psd:a9172a78ea9a5344bbebc5a585bffc5f","goldenMaterial":"OG_195b_PremiumCard.mat:dbc25f4462aeb954dbf9376b5d44815c","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_195b",
+    "dbfId": 38652,
+    "name": "거대한 위습",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 0,
+    "text": "내 하수인들에게 +2/+2를 부여합니다.",
+    "mechanics": []
+  },
+  "2019-05-15": {
+    "cost": 7
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE"
+  }
+}

@@ -1,1 +1,22 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_026","dbfId":38265,"name":"영원한 감시자","type":"MINION","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":2,"text":"[x]<b>전투의 함성:</b> <b>과부하</b>된\n내 마나 수정이 모두\n잠금 해제됩니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"절대로 눈을 마주치지 마세요.","spellSchool":"","portrait":"HS7-047_D.psd:8274b3a81ac5e4c439247599ae2d61af","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":215,"name":"과부하","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_026.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-047_D.psd:8274b3a81ac5e4c439247599ae2d61af","goldenMaterial":"OG_026_PremiumCard.mat:071836e65cc535047bc738321046ce2d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_026",
+    "dbfId": 38265,
+    "name": "영원한 감시자",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> <b>과부하</b>된 내 마나 수정이 모두 잠금 해제됩니다.",
+    "attack": 3,
+    "health": 2,
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>전투의 함성:</b> <b>과부하</b>된<br></br>내 마나 수정이 모두<br></br>잠금 해제됩니다."
+  }
+}

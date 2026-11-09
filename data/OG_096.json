@@ -1,1 +1,19 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_096","dbfId":38429,"name":"황혼의 암흑치유사","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 크툰의 공격력이 10 이상이면, 내 영웅의 생명력을 #10 회복시킵니다.","attack":6,"health":5,"durability":0,"armor":0,"flavor":"암흑은 매우 예민한 물질입니다. 그러니 우선 빛에서 분리한 다음에 찬 물로 세탁하고 자연 바람에 말리세요.","spellSchool":"","portrait":"HS7-012.psd:9a9c278e9e56eb2498528af42c48040c","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38857},{"id":3078,"name":"RITUALIST_MINION","value":1},{"id":3633,"name":"게임 태그 3633","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_096.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-012.psd:9a9c278e9e56eb2498528af42c48040c","goldenMaterial":"OG_096_PremiumCard.mat:5d3e642716d13a94ea1b9f6851c6cb6d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_096",
+    "dbfId": 38429,
+    "name": "황혼의 암흑치유사",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 크툰의 공격력이 10 이상이면, 내 영웅의 생명력을 10 회복시킵니다.",
+    "attack": 6,
+    "health": 5,
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  }
+}

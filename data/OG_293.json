@@ -1,1 +1,26 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_293","dbfId":38882,"name":"어둠에 물든 아라코아","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>도발</b>, <b>전투의 함성:</b>\n내 크툰에게 +4/+4를 부여합니다. <i>(어디에 있든)</i>","attack":5,"health":7,"durability":0,"armor":0,"flavor":"마음에 드는 색채의 아라코아를 선택하세요! 얘는 빛깔이 좀 어둡긴 하네요.","spellSchool":"","portrait":"HS7-108_D.psd:265e9d0741bd8364ca33ba57f7e33d81","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38857},{"id":3078,"name":"RITUALIST_MINION","value":1},{"id":3633,"name":"게임 태그 3633","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_293.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-108_D.psd:265e9d0741bd8364ca33ba57f7e33d81","goldenMaterial":"OG_293_PremiumCard.mat:5eb3948d41638cb4392fa1b382ded430","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_293",
+    "dbfId": 38882,
+    "name": "어둠에 물든 아라코아",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b><br></br><b>전투의 함성:</b> 내 크툰에게 +3/+3을 부여합니다. <i>(어디에 있든)</i>",
+    "attack": 5,
+    "health": 7,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ]
+  },
+  "2017-07-11": {
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 크툰에게 +3/+3을 부여합니다. <i>(어디에 있든)</i>"
+  },
+  "2023-08-23": {
+    "text": "<b>도발</b>, <b>전투의 함성:</b><br></br>내 크툰에게 +4/+4를 부여합니다. <i>(어디에 있든)</i>"
+  }
+}

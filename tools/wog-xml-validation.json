@@ -1,0 +1,9 @@
+{
+  "result": "pass",
+  "fullXmlReextractedBuilds": 167,
+  "cardObservations": 27221,
+  "sourceSha256Verified": true,
+  "losslessPooledEvidenceVerified": true,
+  "missingLocalXml": [],
+  "limitation": "Missing local XML is not counted as a full re-extraction. Its originally recorded extraction hash remains independently checked by the shared-state decoder."
+}

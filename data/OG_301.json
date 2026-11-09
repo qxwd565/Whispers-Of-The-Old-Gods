@@ -1,1 +1,22 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_301","dbfId":38897,"name":"고대의 방패병","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":6,"text":"<b>전투의 함성:</b>\n내 크툰의 공격력이 10 이상이면, 방어도를 +10 얻습니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"고대에는 지금보다 훨씬 무거운 방패를 양손에 4개씩 들었다고 하는군요.","spellSchool":"","portrait":"HS7-160_D.psd:ffb3e0a0cda7d914f9731705e435a302","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38857},{"id":3078,"name":"RITUALIST_MINION","value":1},{"id":3633,"name":"게임 태그 3633","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_301.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-160_D.psd:ffb3e0a0cda7d914f9731705e435a302","goldenMaterial":"OG_301_PremiumCard.mat:326346a08a79b8e43ab3bf72d521e0f7","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_301",
+    "dbfId": 38897,
+    "name": "고대의 방패병",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>내 크툰의 공격력이 10 이상이면, 방어도를 +10 얻습니다.",
+    "attack": 6,
+    "health": 6,
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2023-08-23": {
+    "cost": 6
+  }
+}

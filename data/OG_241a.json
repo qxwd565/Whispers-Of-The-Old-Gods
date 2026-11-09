@@ -1,1 +1,17 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_241a","dbfId":38773,"name":"어둠의 야수","type":"MINION","cardClass":"WARLOCK","rarity":null,"collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-059_D.psd:f2340534869978841bcc4011079535a8","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/OG_241a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-059_D.psd:f2340534869978841bcc4011079535a8","goldenMaterial":"OG_241a_PremiumCard.mat:51d37fdf91b9d1b4cb4bd8a357049ccf","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_241a",
+    "dbfId": 38773,
+    "name": "어둠의 야수",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "mechanics": []
+  }
+}

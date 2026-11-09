@@ -1,1 +1,22 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_162","dbfId":38547,"name":"크툰의 사도","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 피해를 2 줍니다. 내 크툰에게 +2/+2를 부여합니다. <i>(어디에 있든)</i>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"크툰은 자신을 따르는 신도들에게 쿠키를 줍니다. 그걸로 되냐고요? 종교 행사를 가보신 적이 없으신가보군요.","spellSchool":"","portrait":"HS7-141_D.psd:36e39eecffb598542996298f325ea0f2","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38857},{"id":3078,"name":"RITUALIST_MINION","value":1},{"id":3633,"name":"게임 태그 3633","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_162.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-141_D.psd:36e39eecffb598542996298f325ea0f2","goldenMaterial":"OG_162_PremiumCard.mat:e0bcbba65fd4e6f45a6dabf3c919a28c","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_162",
+    "dbfId": 38547,
+    "name": "크툰의 사도",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 피해를 2 줍니다. 내 크툰에게 +2/+2를 부여합니다. <i>(어디에 있든)</i>",
+    "attack": 2,
+    "health": 1,
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2023-08-23": {
+    "health": 2
+  }
+}

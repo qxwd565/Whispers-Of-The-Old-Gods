@@ -1,1 +1,37 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_044a","dbfId":38319,"name":"발톱의 드루이드","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":false,"cost":6,"text":"<b>속공</b>\n<b>도발</b>","attack":7,"health":9,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-069_D.psd:d90acbd7d7f97cf4caf54058c4e489f8","set":"EXPERT1","nativeTags":[{"id":45,"name":"생명력","value":9},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":791,"name":"속공","value":1},{"id":1584,"name":"게임 태그 1584","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/OG_044a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-069_D.psd:d90acbd7d7f97cf4caf54058c4e489f8","goldenMaterial":"OG_044a_PremiumCard.mat:7f94682e1a930fd45b24812b9e1ba7e8","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_044a",
+    "dbfId": 38319,
+    "name": "발톱의 드루이드",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>돌진</b><br></br><b>도발</b>",
+    "attack": 4,
+    "health": 6,
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "mechanics": [
+      "CHARGE",
+      "TAUNT"
+    ]
+  },
+  "2021-03-26": {
+    "text": "<b>속공</b><br></br><b>도발</b>",
+    "attack": 5,
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ]
+  },
+  "2023-04-05": {
+    "cost": 6,
+    "attack": 7,
+    "health": 9
+  }
+}

@@ -1,1 +1,24 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_061t","dbfId":39004,"name":"파수견","type":"MINION","cardClass":"HUNTER","rarity":null,"collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-153_D.psd:416464709d84fba4fa867d21145f908c","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/OG_061t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-153_D.psd:416464709d84fba4fa867d21145f908c","goldenMaterial":"OG_061t_PremiumCard.mat:6ee745a379db8fd46ae72fd8beb7a3cd","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_061t",
+    "dbfId": 39004,
+    "name": "사냥개",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "mechanics": []
+  },
+  "2017-07-11": {
+    "name": "파수견"
+  }
+}

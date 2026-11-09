@@ -1,1 +1,26 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_147","dbfId":38528,"name":"오작동하는 치유로봇","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":5,"text":"<b>죽음의 메아리:</b>\n적 영웅의 생명력을\n#8 회복시킵니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"상대를 치유하는 걸 보면 \"덜떨어진 치유로봇\"에 가까운 것 같습니다.","spellSchool":"","portrait":"HS7-042_D.psd:27c992d6bf4ebbc418b90264821099d7","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/OG_147.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-042_D.psd:27c992d6bf4ebbc418b90264821099d7","goldenMaterial":"OG_147_PremiumCard.mat:cf566306c25f9ee40b4d348ba7d82943","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_147",
+    "dbfId": 38528,
+    "name": "오작동하는 치유로봇",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b> 적 영웅의 생명력을 8 회복시킵니다.",
+    "attack": 6,
+    "health": 6,
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "mechanics": [
+      "DEATHRATTLE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>죽음의 메아리:</b><br></br>적 영웅의 생명력을<br></br>8 회복시킵니다."
+  }
+}

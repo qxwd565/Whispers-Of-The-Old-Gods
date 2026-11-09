@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "scope": "Intrinsic owned keyword abilities, not all free-text effects or reference annotations.",
+  "sources": "wog-archive-evidence.json and wog-korean-source-audit.json",
+  "rules": [
+    "Owned release tags establish baseline keyword ownership. ReferencedTag never confers ownership by itself.",
+    "AURA and TRIGGER_VISUAL engine markers are not standalone gameplay abilities.",
+    "Discover on OG_311 is in its own release text even before its dedicated later tag.",
+    "OG_045 grants Deathrattle; OG_080e grants Stealth; OG_081 destroys frozen minions. None owns those referenced keywords.",
+    "OG_026 unlocks overloaded crystals but is not itself Overload.",
+    "OG_044 modifies Choose One cards but is not itself Choose One.",
+    "OG_209 grants Lifesteal to spells, not to itself. It gains its own Spell Damage in 27.2.",
+    "OG_150 and OG_218 lose the displayed Enraged keyword in 11.0, retaining explicitly worded effects.",
+    "OG_044a changes Charge to Rush in 20.0. OG_188 and OG_334 gain Taunt in 27.2.",
+    "OG_340 switches the two targeting-immunity descriptors to the formal Elusive keyword in 29.0.",
+    "Temporary absent implementation tags do not remove an unchanged printed owned keyword."
+  ]
+}

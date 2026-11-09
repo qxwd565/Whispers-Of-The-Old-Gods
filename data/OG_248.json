@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_248","dbfId":38782,"name":"암용 광전사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"","attack":1,"health":5,"durability":0,"armor":0,"flavor":"환호 위상","spellSchool":"","portrait":"HS7-098_D.psd:560e73e2cbd004246a3c6d230e205e4d","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/OG_248.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-098_D.psd:560e73e2cbd004246a3c6d230e205e4d","goldenMaterial":"OG_248_PremiumCard.mat:2c3554776aefaca4bb11b7fc5dce95b2","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_248",
+    "dbfId": 38782,
+    "name": "암용 광전사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "",
+    "attack": 1,
+    "health": 5,
+    "mechanics": []
+  },
+  "2022-11-30": {
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드"
+  }
+}

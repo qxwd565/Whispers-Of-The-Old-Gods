@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_114","dbfId":38454,"name":"금단의 의식","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":0,"text":"[x]마나를 모두 소모합니다.\n소모한만큼 1/1 촉수를\n소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"금단이라고는 하지만 크툰은 이 의식을 매우 지지합니다.","spellSchool":"SHADOW","portrait":"HS7-023_D.psd:90ea5e6ff13c35e40b3aa2eeafefbf06","set":"OG","nativeTags":[{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38453},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/OG_114.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-023_D.psd:90ea5e6ff13c35e40b3aa2eeafefbf06","goldenMaterial":"OG_114_PremiumCard.mat:71bef7ae7390f2d46abbfd65bbad2acb","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_114",
+    "dbfId": 38454,
+    "name": "금단의 의식",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 0,
+    "text": "마나를 모두 소모합니다. 소모한만큼 1/1 촉수를 소환합니다.",
+    "mechanics": []
+  },
+  "2016-07-13": {
+    "text": "마나를 모두 소모합니다.<br></br>소모한만큼 1/1 촉수를<br></br>소환합니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW"
+  }
+}

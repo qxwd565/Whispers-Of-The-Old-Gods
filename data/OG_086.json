@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_086","dbfId":38413,"name":"금단의 불꽃","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":0,"text":"[x]마나를 모두 소모합니다.\n소모한만큼 하수인에게\n피해를 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"경고: 고대 신학 박사 학위가 없는 자는 사용할 수 없습니다.","spellSchool":"FIRE","portrait":"HS7-006_D.psd:23670ded162db334d91ab48d3ff4f0fa","set":"OG","nativeTags":[{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":370,"name":"주문 공격력 적용","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/OG_086.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-006_D.psd:23670ded162db334d91ab48d3ff4f0fa","goldenMaterial":"OG_086_PremiumCard.mat:6f0e4ae684325104aa5f57424c0e14f0","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_086",
+    "dbfId": 38413,
+    "name": "금단의 불꽃",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 0,
+    "text": "마나를 모두 소모합니다. 소모한만큼 하수인 하나에게 피해를 줍니다.",
+    "mechanics": []
+  },
+  "2018-10-03": {
+    "text": "마나를 모두 소모합니다.<br></br>소모한만큼 하수인에게<br></br>피해를 줍니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "FIRE"
+  }
+}

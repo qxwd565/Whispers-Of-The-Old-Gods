@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_031a","dbfId":38273,"name":"황혼의 정령","type":"MINION","cardClass":"SHAMAN","rarity":null,"collectible":false,"cost":3,"text":"","attack":4,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-075_D.psd:687ff8b41e86fdc42bf258585c7ca7c8","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/OG_031a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-075_D.psd:687ff8b41e86fdc42bf258585c7ca7c8","goldenMaterial":"OG_031a_PremiumCard.mat:866ee789b5df8d94aa7300b65fdf7b1d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_031a",
+    "dbfId": 38273,
+    "name": "황혼의 정령",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 3,
+    "text": "",
+    "attack": 4,
+    "health": 2,
+    "mechanics": []
+  },
+  "2017-04-05": {
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령"
+  }
+}

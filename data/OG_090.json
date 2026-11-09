@@ -1,1 +1,28 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_090","dbfId":38418,"name":"신비술사의 고서","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":4,"text":"무작위 마법사 주문을 셋 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"없는 것 빼고 다 있습니다. 쿠키 조리법까지도요!","spellSchool":"ARCANE","portrait":"HS7-004_D.psd:05e801a98995c2041a26e211c95d7d2b","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_090.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-004_D.psd:05e801a98995c2041a26e211c95d7d2b","goldenMaterial":"OG_090_PremiumCard.mat:2b860d1dbe4be3b4080a2cebe7308c1a","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_090",
+    "dbfId": 38418,
+    "name": "신비술사의 고서",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "무작위 마법사 주문 카드 3장을 내 손으로 가져옵니다.",
+    "mechanics": []
+  },
+  "2016-08-10": {
+    "text": "무작위 마법사<br></br>주문 카드 3장을<br></br>내 손으로 가져옵니다."
+  },
+  "2017-08-09": {
+    "text": "무작위 마법사 주문<br></br>셋을 내 손으로<br></br>가져옵니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "ARCANE"
+  },
+  "2023-08-23": {
+    "cost": 4,
+    "text": "무작위 마법사 주문을 셋 얻습니다."
+  }
+}

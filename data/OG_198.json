@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_198","dbfId":38666,"name":"금단의 치유술","type":"SPELL","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":0,"text":"[x]마나를 모두 소모합니다.\n소모한 마나의 두 배만큼\n생명력을 회복시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"치유하는 주문이 왜 금지되었는지는 아무도 모릅니다. 그래서 더더욱 불안하군요.","spellSchool":"HOLY","portrait":"HS7-029_D.psd:23bade2937ae2d64b9bc42f86814dff0","set":"OG","nativeTags":[{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1118,"name":"치유의 피해 전환 적용","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/OG_198.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-029_D.psd:23bade2937ae2d64b9bc42f86814dff0","goldenMaterial":"OG_198_PremiumCard.mat:c0f18f31d31a1084c90c04e2e741b57e","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_198",
+    "dbfId": 38666,
+    "name": "금단의 치유술",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 0,
+    "text": "마나를 모두 소모합니다. 소모한 마나의 두 배만큼 생명력을 회복시킵니다.",
+    "mechanics": []
+  },
+  "2016-08-10": {
+    "text": "마나를 모두 소모합니다.<br></br>소모한 마나의 두 배만큼<br></br>생명력을 회복시킵니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "HOLY"
+  }
+}

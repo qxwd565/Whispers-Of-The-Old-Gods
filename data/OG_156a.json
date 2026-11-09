@@ -1,1 +1,19 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_156a","dbfId":38537,"name":"수액","type":"MINION","cardClass":"NEUTRAL","rarity":null,"collectible":false,"cost":1,"text":"<b>도발</b>","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-134_D.psd:0c7aae0ecd320ee4b97a7f33ea554482","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/OG_156a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-134_D.psd:0c7aae0ecd320ee4b97a7f33ea554482","goldenMaterial":"OG_156a_PremiumCard.mat:e5cdf41c8927de14ba05771bd612b19d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_156a",
+    "dbfId": 38537,
+    "name": "수액",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>도발</b>",
+    "attack": 1,
+    "health": 1,
+    "mechanics": [
+      "TAUNT"
+    ]
+  }
+}

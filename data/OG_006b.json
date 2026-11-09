@@ -1,1 +1,21 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_006b","dbfId":39154,"name":"해일의 성기사단","type":"HERO_POWER","cardClass":"PALADIN","rarity":null,"collectible":false,"cost":2,"text":"1/1 은빛 성기사단\n멀록을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS7-088_D2.psd:b861bb376c903264eba44bb313759f03","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":10}],"races":[],"race":"","classes":[],"art":"art/OG_006b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-088_D2.psd:b861bb376c903264eba44bb313759f03","goldenMaterial":"OG_006b_PremiumCard.mat:235256a37389a5b498a932a08e221854","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_006b",
+    "dbfId": 39154,
+    "name": "해일의 성기사단",
+    "type": "HERO_POWER",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "rarity": null,
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>영웅 능력</b><br></br>1/1 은빛 성기사단 멀록을 1마리 소환합니다.",
+    "mechanics": []
+  },
+  "2018-10-03": {
+    "text": "<b>영웅 능력</b><br></br>1/1 은빛 성기사단<br></br>멀록을 소환합니다."
+  },
+  "2022-11-30": {
+    "text": "1/1 은빛 성기사단<br></br>멀록을 소환합니다."
+  }
+}

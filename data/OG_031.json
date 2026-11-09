@@ -1,1 +1,28 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_031","dbfId":38270,"name":"황혼의 망치","type":"WEAPON","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>죽음의 메아리</b>: 4/2 정령을 소환합니다.","attack":4,"health":2,"durability":2,"armor":0,"flavor":"남자가 망치를 들었으면 뭐든 후려쳐야죠.","spellSchool":"","portrait":"W15_A180_D.psd:ef51091e72c43bc458e8e048f5e93c17","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38273},{"id":4533,"name":"CRAFTABLE_OUTPUT_POWER","value":1},{"id":4546,"name":"게임 태그 4546","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_031.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"W15_A180_D.psd:ef51091e72c43bc458e8e048f5e93c17","goldenMaterial":"OG_031_PremiumCard.mat:2561bfcef882d3b4e8238e940ece60ba","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_031",
+    "dbfId": 38270,
+    "name": "황혼의 망치",
+    "type": "WEAPON",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b> 4/2 정령을 하나 소환합니다.",
+    "attack": 4,
+    "durability": 2,
+    "mechanics": [
+      "DEATHRATTLE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>죽음의 메아리:</b><br></br>4/2 정령을 하나 소환합니다."
+  },
+  "2018-10-03": {
+    "text": "<b>죽음의 메아리:</b><br></br>4/2 정령을 소환합니다."
+  },
+  "2026-10-14": {
+    "text": "<b>죽음의 메아리</b>: 4/2 정령을 소환합니다."
+  }
+}

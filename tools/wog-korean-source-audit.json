@@ -1,0 +1,1399 @@
+{
+  "schema": 1,
+  "checkedOn": "2026-11-09",
+  "set": "Whispers of the Old Gods",
+  "repository": "https://github.com/qxwd565/Whispers-Of-The-Old-Gods",
+  "inspectedMain": "36969f9ade690085ac3d01f886dbd357644921e4",
+  "dateStandard": "Asia/Seoul calendar day when a state was usable in ordinary constructed matches, including normal generation; not announcement, archive commit, preload, or unrelated expansion/adventure/class unlock.",
+  "release": {
+    "effectiveDateKST": "2016-04-27",
+    "collectibleCount": 134,
+    "generatedCount": 29,
+    "laterAddedIds": [],
+    "sources": [
+      "launch_kr"
+    ],
+    "archive": "https://github.com/HearthSim/hsdata/blob/4f7206f440ab05115824b7263aa36cd94a96327f/CardDefs.xml",
+    "archiveSha256": "148689642d3453832dc2503b3bd910d8a129f52725cc5a569da150fb6ad39958",
+    "limits": "Archive presence is combined with live parent availability and normal generation paths. No class or adventure unlock applies to these WoG parents."
+  },
+  "generatedRecords": [
+    {
+      "id": "OG_006a",
+      "dbfId": 38822,
+      "name": "은빛 성기사단 멀록",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_006b"
+      ]
+    },
+    {
+      "id": "OG_006b",
+      "dbfId": 39154,
+      "name": "해일의 성기사단",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_006"
+      ]
+    },
+    {
+      "id": "OG_031a",
+      "dbfId": 38273,
+      "name": "황혼의 정령",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_031"
+      ]
+    },
+    {
+      "id": "OG_044a",
+      "dbfId": 38319,
+      "name": "발톱의 드루이드",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_044"
+      ]
+    },
+    {
+      "id": "OG_047a",
+      "dbfId": 38332,
+      "name": "가시뼈 진화",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_047"
+      ]
+    },
+    {
+      "id": "OG_047b",
+      "dbfId": 38333,
+      "name": "비늘 진화",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_047"
+      ]
+    },
+    {
+      "id": "OG_058",
+      "dbfId": 38363,
+      "name": "녹슨 갈고리",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_312"
+      ]
+    },
+    {
+      "id": "OG_061t",
+      "dbfId": 39004,
+      "name": "파수견",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_061"
+      ]
+    },
+    {
+      "id": "OG_080b",
+      "dbfId": 38934,
+      "name": "왕꽃잎풀 독극물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_080"
+      ]
+    },
+    {
+      "id": "OG_080c",
+      "dbfId": 38938,
+      "name": "피엉겅퀴 독극물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_080"
+      ]
+    },
+    {
+      "id": "OG_080d",
+      "dbfId": 38940,
+      "name": "찔레가시 독극물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_080"
+      ]
+    },
+    {
+      "id": "OG_080e",
+      "dbfId": 38942,
+      "name": "미명초잎 독극물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_080"
+      ]
+    },
+    {
+      "id": "OG_080f",
+      "dbfId": 38935,
+      "name": "화염초 독극물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_080"
+      ]
+    },
+    {
+      "id": "OG_114a",
+      "dbfId": 38453,
+      "name": "끈적거리는 촉수",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_114"
+      ]
+    },
+    {
+      "id": "OG_156a",
+      "dbfId": 38537,
+      "name": "수액",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_156"
+      ]
+    },
+    {
+      "id": "OG_173a",
+      "dbfId": 38566,
+      "name": "고대의 존재",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_173"
+      ]
+    },
+    {
+      "id": "OG_195a",
+      "dbfId": 38654,
+      "name": "수많은 위습",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_195"
+      ]
+    },
+    {
+      "id": "OG_195b",
+      "dbfId": 38652,
+      "name": "거대한 위습",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_195"
+      ]
+    },
+    {
+      "id": "OG_195c",
+      "dbfId": 38653,
+      "name": "위습",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_195"
+      ]
+    },
+    {
+      "id": "OG_202a",
+      "dbfId": 38716,
+      "name": "이샤라즈의 힘",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_202"
+      ]
+    },
+    {
+      "id": "OG_202b",
+      "dbfId": 38717,
+      "name": "요그사론의 마법",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_202"
+      ]
+    },
+    {
+      "id": "OG_202c",
+      "dbfId": 38921,
+      "name": "수액괴물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_202"
+      ]
+    },
+    {
+      "id": "OG_216a",
+      "dbfId": 38735,
+      "name": "거미",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_216"
+      ]
+    },
+    {
+      "id": "OG_241a",
+      "dbfId": 38773,
+      "name": "어둠의 야수",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_241"
+      ]
+    },
+    {
+      "id": "OG_249a",
+      "dbfId": 38783,
+      "name": "수액괴물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_249"
+      ]
+    },
+    {
+      "id": "OG_272t",
+      "dbfId": 38999,
+      "name": "얼굴 없는 파괴자",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_272"
+      ]
+    },
+    {
+      "id": "OG_314b",
+      "dbfId": 38968,
+      "name": "수액괴물",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_314"
+      ]
+    },
+    {
+      "id": "OG_318t",
+      "dbfId": 39842,
+      "name": "놀",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_318"
+      ]
+    },
+    {
+      "id": "OG_319",
+      "dbfId": 38946,
+      "name": "쌍둥이 제왕 베크닐라쉬",
+      "firstOrdinaryUseKST": "2016-04-27",
+      "generationPathIds": [
+        "OG_131"
+      ]
+    }
+  ],
+  "generatedNotes": [
+    "OG_058 is Rusty Hook from OG_312, not a parent inferred from the 058 prefix.",
+    "OG_319 is the summoned twin from OG_131.",
+    "OG_044a is the combined Druid of the Claw form created through Fandral plus the existing Druid of the Claw card. It is currently tagged EXPERT1 but belongs to this existing catalog.",
+    "OG_006b is the hero power created by Vilefin Inquisitor, which then summons OG_006a.",
+    "Choose One options already appear in normal play at launch; later mana metadata does not establish a new release date."
+  ],
+  "events": [
+    {
+      "effectiveDateKST": "2016-07-13",
+      "patch": "5.2.0.13619",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_034",
+          "dbfId": 38304,
+          "name": "우두머리 실리시드"
+        }
+      ],
+      "change": "None to Beast. Do not assign Fiery Bat this tribe change.",
+      "sources": [
+        "5.2"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2016-08-10",
+      "patch": "6.0.0.13921",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_202c",
+          "dbfId": 38921,
+          "name": "수액괴물"
+        },
+        {
+          "id": "OG_249a",
+          "dbfId": 38783,
+          "name": "수액괴물"
+        },
+        {
+          "id": "OG_314b",
+          "dbfId": 38968,
+          "name": "수액괴물"
+        }
+      ],
+      "change": "Generated Slime mana 1 to 2.",
+      "sources": [
+        "6.0",
+        "slime_mire"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2016-10-04",
+      "patch": "6.1.3.14830",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_211",
+          "dbfId": 38727,
+          "name": "야생의 부름"
+        }
+      ],
+      "change": "Call of the Wild mana 8 to 9.",
+      "sources": [
+        "6.1.3"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2016-10-04",
+      "patch": "6.1.3.14830",
+      "kind": "functional_rule",
+      "cards": [
+        {
+          "id": "OG_134",
+          "dbfId": 38505,
+          "name": "희망의 끝 요그사론"
+        }
+      ],
+      "change": "Yogg stops casting if destroyed, silenced, transformed or returned to hand. Printed card text need not change.",
+      "sources": [
+        "6.1.3",
+        "6.1.3_announcement"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2016-10-21",
+      "patch": "6.2.0.15181",
+      "kind": "bug_fix",
+      "cards": [
+        {
+          "id": "OG_134",
+          "dbfId": 38505,
+          "name": "희망의 끝 요그사론"
+        }
+      ],
+      "change": "Yogg spells with Overload now properly apply Overload. This is later than the October 4 stop-casting nerf.",
+      "sources": [
+        "6.2"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2017-04-05",
+      "patch": "8.0.0.18336",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_031a",
+          "dbfId": 38273,
+          "name": "황혼의 정령"
+        },
+        {
+          "id": "OG_120",
+          "dbfId": 38463,
+          "name": "아노말루스"
+        },
+        {
+          "id": "OG_229",
+          "dbfId": 38758,
+          "name": "빛의 군주 라그나로스"
+        }
+      ],
+      "change": "Gain Elemental. Do not postpone to UnGoro unlock April 7.",
+      "sources": [
+        "8.0",
+        "8.0_contemporary"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2017-07-11",
+      "patch": "8.4.0.20022",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_209",
+          "dbfId": 38722,
+          "name": "승천한 할라질"
+        }
+      ],
+      "change": "Hallazeal gains Elemental. It did not gain the tribe with 8.0.",
+      "sources": [
+        "8.4"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2017-08-09",
+      "patch": "9.0.0.20457",
+      "kind": "wording_and_functionality",
+      "cards": [
+        {
+          "id": "OG_044",
+          "dbfId": 38318,
+          "name": "판드랄 스태그헬름"
+        }
+      ],
+      "change": "Fandral wording broadens from Choose One cards to Choose One abilities.",
+      "sources": [
+        "9.0"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2018-04-11",
+      "patch": "11.0.0.23966",
+      "kind": "keyword_wording",
+      "cards": [
+        {
+          "id": "OG_150",
+          "dbfId": 38531,
+          "name": "변종 광전사"
+        }
+      ],
+      "change": "Enrage keyword replaced with explicit while-damaged attack bonus wording. No stat or balance change implied.",
+      "sources": [
+        "11.0"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2019-05-15",
+      "patch": "14.2.0.30795",
+      "kind": "card_attribute",
+      "cards": [
+        {
+          "id": "OG_047a",
+          "dbfId": 38332,
+          "name": "가시뼈 진화"
+        },
+        {
+          "id": "OG_047b",
+          "dbfId": 38333,
+          "name": "비늘 진화"
+        },
+        {
+          "id": "OG_195a",
+          "dbfId": 38654,
+          "name": "수많은 위습"
+        },
+        {
+          "id": "OG_195b",
+          "dbfId": 38652,
+          "name": "거대한 위습"
+        },
+        {
+          "id": "OG_202a",
+          "dbfId": 38716,
+          "name": "이샤라즈의 힘"
+        },
+        {
+          "id": "OG_202b",
+          "dbfId": 38717,
+          "name": "요그사론의 마법"
+        }
+      ],
+      "change": "Choose One options mana 0 becomes parent cost: 3, 3, 7, 7, 4, 4 respectively.",
+      "sources": [
+        "14.2"
+      ],
+      "confidence": "high_for_patch_date_and_archive_delta",
+      "limits": "Official prose does not name these six costs; use the original archive boundary for attribution. Existing selectable/generated records, not newly collectible cards."
+    },
+    {
+      "effectiveDateKST": "2019-05-15",
+      "patch": "14.2.0.30795",
+      "kind": "bug_fix",
+      "cards": [
+        {
+          "id": "OG_338",
+          "dbfId": 39046,
+          "name": "어둠의 낚시꾼 내트"
+        }
+      ],
+      "change": "Fix Nat the Darkfisher triggering more often than its stated 50%.",
+      "sources": [
+        "14.2"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2020-03-18",
+      "patch": "16.6",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_211",
+          "dbfId": 38727,
+          "name": "야생의 부름"
+        }
+      ],
+      "change": "Call of the Wild mana 9 to 8.",
+      "sources": [
+        "16.6"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2020-03-18",
+      "patch": "16.6",
+      "kind": "functional_rule",
+      "cards": [
+        {
+          "id": "OG_134",
+          "dbfId": 38505,
+          "name": "희망의 끝 요그사론"
+        }
+      ],
+      "change": "Yogg resumes continued spell casting after leaving the battlefield; reversal of the 2016 stop rule.",
+      "sources": [
+        "16.6"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2021-03-26",
+      "patch": "20.0.0.77662",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_023",
+          "dbfId": 38262,
+          "name": "원시의 힘"
+        },
+        {
+          "id": "OG_027",
+          "dbfId": 38266,
+          "name": "진화"
+        },
+        {
+          "id": "OG_045",
+          "dbfId": 38329,
+          "name": "감염"
+        },
+        {
+          "id": "OG_080b",
+          "dbfId": 38934,
+          "name": "왕꽃잎풀 독극물"
+        },
+        {
+          "id": "OG_080c",
+          "dbfId": 38938,
+          "name": "피엉겅퀴 독극물"
+        },
+        {
+          "id": "OG_080d",
+          "dbfId": 38940,
+          "name": "찔레가시 독극물"
+        },
+        {
+          "id": "OG_080e",
+          "dbfId": 38942,
+          "name": "미명초잎 독극물"
+        },
+        {
+          "id": "OG_080f",
+          "dbfId": 38935,
+          "name": "화염초 독극물"
+        },
+        {
+          "id": "OG_081",
+          "dbfId": 38407,
+          "name": "산산조각"
+        },
+        {
+          "id": "OG_086",
+          "dbfId": 38413,
+          "name": "금단의 불꽃"
+        },
+        {
+          "id": "OG_090",
+          "dbfId": 38418,
+          "name": "신비술사의 고서"
+        },
+        {
+          "id": "OG_094",
+          "dbfId": 38426,
+          "name": "신의 권능: 촉수"
+        },
+        {
+          "id": "OG_100",
+          "dbfId": 38433,
+          "name": "어둠의 권능: 공포"
+        },
+        {
+          "id": "OG_101",
+          "dbfId": 38434,
+          "name": "금단의 창조술"
+        },
+        {
+          "id": "OG_104",
+          "dbfId": 38439,
+          "name": "어둠을 받아들여라"
+        },
+        {
+          "id": "OG_114",
+          "dbfId": 38454,
+          "name": "금단의 의식"
+        },
+        {
+          "id": "OG_116",
+          "dbfId": 38456,
+          "name": "퍼져가는 광기"
+        },
+        {
+          "id": "OG_118",
+          "dbfId": 38461,
+          "name": "어둠을 등지다"
+        },
+        {
+          "id": "OG_176",
+          "dbfId": 38578,
+          "name": "그림자 일격"
+        },
+        {
+          "id": "OG_195",
+          "dbfId": 38655,
+          "name": "고대 신의 위습"
+        },
+        {
+          "id": "OG_195a",
+          "dbfId": 38654,
+          "name": "수많은 위습"
+        },
+        {
+          "id": "OG_195b",
+          "dbfId": 38652,
+          "name": "거대한 위습"
+        },
+        {
+          "id": "OG_198",
+          "dbfId": 38666,
+          "name": "금단의 치유술"
+        },
+        {
+          "id": "OG_206",
+          "dbfId": 38724,
+          "name": "벼락"
+        },
+        {
+          "id": "OG_223",
+          "dbfId": 38749,
+          "name": "천상의 힘"
+        },
+        {
+          "id": "OG_239",
+          "dbfId": 38770,
+          "name": "파멸!"
+        },
+        {
+          "id": "OG_311",
+          "dbfId": 38913,
+          "name": "어둠 속의 빛"
+        }
+      ],
+      "change": "27 original spell and generated-option records receive spell schools; use each original archive school value.",
+      "sources": [
+        "20.0"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2021-03-26",
+      "patch": "20.0.0.77662",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_044a",
+          "dbfId": 38319,
+          "name": "발톱의 드루이드"
+        }
+      ],
+      "change": "Combined Druid of the Claw attack 4 to 5; Charge becomes Rush; retains 6 health and 5 mana.",
+      "sources": [
+        "20.0",
+        "combined_druid"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2022-08-17",
+      "patch": "24.0.3.147348",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_273",
+          "dbfId": 38843,
+          "name": "어둠에 맞서리라"
+        }
+      ],
+      "change": "Stand Against Darkness mana 5 to 4.",
+      "sources": [
+        "24.0.3",
+        "24.0.3_kr",
+        "24.0.3_report"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2022-11-30",
+      "patch": "25.0.0.158725",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_138",
+          "dbfId": 38517,
+          "name": "네루비안 예언자"
+        },
+        {
+          "id": "OG_149",
+          "dbfId": 38530,
+          "name": "날뛰는 구울"
+        },
+        {
+          "id": "OG_195c",
+          "dbfId": 38653,
+          "name": "위습"
+        },
+        {
+          "id": "OG_248",
+          "dbfId": 38782,
+          "name": "암용 광전사"
+        },
+        {
+          "id": "OG_283",
+          "dbfId": 38863,
+          "name": "크툰의 추종자"
+        },
+        {
+          "id": "OG_330",
+          "dbfId": 39026,
+          "name": "언더시티 상인"
+        },
+        {
+          "id": "OG_335",
+          "dbfId": 39034,
+          "name": "변화무쌍한 망령"
+        }
+      ],
+      "change": "These seven original records gain Undead in 25.0, before the December 7 expansion launch.",
+      "sources": [
+        "25.0",
+        "25.0_kr"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2023-04-05",
+      "patch": "26.0.0.170824",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_044a",
+          "dbfId": 38319,
+          "name": "발톱의 드루이드"
+        }
+      ],
+      "change": "Combined Druid mana 5 to 6, attack 5 to 7, health 6 to 9, retaining Rush and Taunt.",
+      "sources": [
+        "26.0",
+        "combined_druid"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2023-08-23",
+      "patch": "27.2.0.183876",
+      "kind": "balance_cohort",
+      "cards": [
+        {
+          "id": "OG_293",
+          "dbfId": 38882,
+          "name": "어둠에 물든 아라코아"
+        },
+        {
+          "id": "OG_202",
+          "dbfId": 38718,
+          "name": "수렁의 수호자"
+        },
+        {
+          "id": "OG_313",
+          "dbfId": 38916,
+          "name": "혼란스러운 드루이드"
+        },
+        {
+          "id": "OG_188",
+          "dbfId": 38621,
+          "name": "클락시 호박술사"
+        },
+        {
+          "id": "OG_087",
+          "dbfId": 38414,
+          "name": "요그사론의 종복"
+        },
+        {
+          "id": "OG_090",
+          "dbfId": 38418,
+          "name": "신비술사의 고서"
+        },
+        {
+          "id": "OG_311",
+          "dbfId": 38913,
+          "name": "어둠 속의 빛"
+        },
+        {
+          "id": "OG_310",
+          "dbfId": 38911,
+          "name": "어둠골 감시대원"
+        },
+        {
+          "id": "OG_334",
+          "dbfId": 39033,
+          "name": "두건 쓴 수행사제"
+        },
+        {
+          "id": "OG_234",
+          "dbfId": 38764,
+          "name": "어둠골 연금술사"
+        },
+        {
+          "id": "OG_335",
+          "dbfId": 39034,
+          "name": "변화무쌍한 망령"
+        },
+        {
+          "id": "OG_330",
+          "dbfId": 39026,
+          "name": "언더시티 상인"
+        },
+        {
+          "id": "OG_282",
+          "dbfId": 38861,
+          "name": "크툰의 자객"
+        },
+        {
+          "id": "OG_209",
+          "dbfId": 38722,
+          "name": "승천한 할라질"
+        },
+        {
+          "id": "OG_302",
+          "dbfId": 38898,
+          "name": "저승의 안내인"
+        },
+        {
+          "id": "OG_116",
+          "dbfId": 38456,
+          "name": "퍼져가는 광기"
+        },
+        {
+          "id": "OG_301",
+          "dbfId": 38897,
+          "name": "고대의 방패병"
+        },
+        {
+          "id": "OG_295",
+          "dbfId": 38888,
+          "name": "이교도 약제사"
+        },
+        {
+          "id": "OG_284",
+          "dbfId": 38864,
+          "name": "황혼의 풍수사"
+        },
+        {
+          "id": "OG_283",
+          "dbfId": 38863,
+          "name": "크툰의 추종자"
+        },
+        {
+          "id": "OG_162",
+          "dbfId": 38547,
+          "name": "크툰의 사도"
+        },
+        {
+          "id": "OG_321",
+          "dbfId": 38958,
+          "name": "실성한 신봉자"
+        },
+        {
+          "id": "OG_131",
+          "dbfId": 38488,
+          "name": "쌍둥이 제왕 베클로어"
+        },
+        {
+          "id": "OG_280",
+          "dbfId": 38857,
+          "name": "크툰"
+        },
+        {
+          "id": "OG_121",
+          "dbfId": 38464,
+          "name": "초갈"
+        },
+        {
+          "id": "OG_319",
+          "dbfId": 38946,
+          "name": "쌍둥이 제왕 베크닐라쉬"
+        }
+      ],
+      "change": "Original Wild buffs and ChoGall rework apply immediately. Includes Twin Emperor token OG_319 stats 4/6 to 6/7. Do not assign COT release September 1.",
+      "sources": [
+        "27.2",
+        "cot_originals",
+        "chogall"
+      ],
+      "confidence": "high",
+      "limits": "Exact original-ID changes derive from archives. Two rework images were not visually inspected. ChoGall omission from the 111-card prose list is not evidence that OG_121 was unchanged."
+    },
+    {
+      "effectiveDateKST": "2023-09-29",
+      "patch": "27.4.2.186852",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_282",
+          "dbfId": 38861,
+          "name": "크툰의 자객"
+        }
+      ],
+      "change": "Blade of CThun mana 6 to 7.",
+      "sources": [
+        "27.4.2",
+        "27.4.2_kr"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2024-03-12",
+      "patch": "29.0.0.195635",
+      "kind": "keyword_wording",
+      "cards": [
+        {
+          "id": "OG_340",
+          "dbfId": 39119,
+          "name": "음험한 소고스"
+        }
+      ],
+      "change": "Soggoth displays Elusive as Korean 모면, replacing spelled-out untargetability. Do not substitute 회피 for the archived keyword.",
+      "sources": [
+        "29.0"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2024-10-30",
+      "patch": "31.0.0.210009",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_221",
+          "dbfId": 38740,
+          "name": "헌신적인 영웅"
+        }
+      ],
+      "change": "Selfless Hero gains Draenei; do not postpone to November 6 expansion unlock.",
+      "sources": [
+        "31.0"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2025-03-19",
+      "patch": "32.0.0.217964",
+      "kind": "card_change",
+      "cards": [
+        {
+          "id": "OG_044",
+          "dbfId": 38318,
+          "name": "판드랄 스태그헬름"
+        }
+      ],
+      "change": "Original Fandral health 5 to 6, not only Core or reprint.",
+      "sources": [
+        "32.0"
+      ],
+      "confidence": "high"
+    },
+    {
+      "effectiveDateKST": "2025-03-19",
+      "patch": "32.0.0.217964",
+      "kind": "functional_rule",
+      "cards": [
+        {
+          "id": "OG_027",
+          "dbfId": 38266,
+          "name": "진화"
+        },
+        {
+          "id": "OG_328",
+          "dbfId": 39008,
+          "name": "진화의 대가"
+        }
+      ],
+      "change": "Global evolve rules cap the transformed result at 10 mana; applies to Evolve and Master of Evolution without requiring new printed text.",
+      "sources": [
+        "32.0"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "additionalWordingBuildDates": [
+    {
+      "build": "7.0.0.15590",
+      "effectiveDateKST": "2016-11-30",
+      "sources": [
+        "7.0"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "8.0.0.18336",
+      "effectiveDateKST": "2017-04-05",
+      "sources": [
+        "8.0"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "8.4.0.20022",
+      "effectiveDateKST": "2017-07-11",
+      "sources": [
+        "8.4"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "9.0.0.20457",
+      "effectiveDateKST": "2017-08-09",
+      "sources": [
+        "9.0"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "10.0.0.22611",
+      "effectiveDateKST": "2017-12-07",
+      "sources": [
+        "10.0"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "11.0.0.23966",
+      "effectiveDateKST": "2018-04-11",
+      "sources": [
+        "11.0"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "12.2.0.26757",
+      "effectiveDateKST": "2018-10-03",
+      "sources": [
+        "12.2",
+        "12.2_build",
+        "12.2_contemporary",
+        "12.2_jp"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "15.2.0.33717",
+      "effectiveDateKST": "2019-09-11",
+      "sources": [
+        "15.2"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "17.0.0.44222",
+      "effectiveDateKST": "2020-03-27",
+      "sources": [
+        "17.0"
+      ],
+      "scope": "OG_340 formatting, separate from the 16.6 Call of the Wild revert."
+    },
+    {
+      "build": "18.0.0.54613",
+      "effectiveDateKST": "2020-07-31",
+      "sources": [
+        "18.0",
+        "18.0_kr"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "18.2.0.58213",
+      "effectiveDateKST": "2020-09-09",
+      "sources": [
+        "18.2",
+        "18.2_kr"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    },
+    {
+      "build": "37.0.0.254477",
+      "effectiveDateKST": "2026-10-14",
+      "sources": [
+        "37.0"
+      ],
+      "scope": "Only use for a transition actually located in this original-ID build; do not invent a balance effect."
+    }
+  ],
+  "negativeAndExclusionFindings": [
+    {
+      "id": "OG_179",
+      "dbfId": 38584,
+      "finding": "Fiery Bat already has Beast race 20 and 1 mana 2/1 in 5.0. Race remains 20 across the 43 originally inspected sample builds through 37.0.2. No tribe or balance change is supported; formatting and quantity wording changes are separate."
+    },
+    "Classic balance adjustments accompanying the 2016 patches are outside this expansion.",
+    "Weapon durability moving between raw health/durability tags is a representation change, not an in-game durability nerf.",
+    "Neutral class 0 to 12 and token rarity cleanup are metadata unless tied to visible or gameplay changes.",
+    "CORE or COT copies alone never establish an original OG-ID delta."
+  ],
+  "sources": {
+    "launch_kr": {
+      "url": "https://m.inews24.com/v/954509",
+      "inspection": "opened_text",
+      "evidence": "Contemporary Korean report timestamped 2016-04-27 10:01 says the expansion released and its 134 collectible cards are available."
+    },
+    "5.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20177158/하스스톤-업데이트-2016년-7월-13일-2016-07-13",
+      "inspection": "opened_text",
+      "evidence": "Korean title July 13, 2016; explicitly says Silithid Swarmer becomes a Beast. Displayed publication metadata is July 12."
+    },
+    "6.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20228506",
+      "inspection": "opened_text",
+      "evidence": "Korean title August 10, 2016; some noncollectible summoned minion costs increased. Karazhan itself opens August 12."
+    },
+    "6.1.3": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20303030",
+      "inspection": "opened_text",
+      "evidence": "Korean title October 4, 2016; Call of the Wild costs 9 and Yogg stops when killed or silenced. Publication metadata October 3 is not the Korean effective date."
+    },
+    "6.1.3_announcement": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20303031",
+      "inspection": "indexed_excerpt",
+      "evidence": "Announcement additionally describes Yogg stopping after transformation or return to hand; its Overload bug will be corrected in a future patch, not this update."
+    },
+    "6.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20328179/하스스톤-업데이트-2016년-10월-21일-2016-10-21",
+      "inspection": "opened_text",
+      "evidence": "Korean title October 21, 2016; explicitly fixes Yogg applying Overload. Classic Murloc adjustments in the same notes are outside this repository."
+    },
+    "7.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20382066/하스스톤-업데이트-2016년-11월-30일-2016-11-30",
+      "inspection": "opened_text",
+      "evidence": "Korean title November 30, 2016. Gadgetzan unlock is separately December 2."
+    },
+    "8.0": {
+      "url": "https://news.blizzard.com/ko-kr/article/20678265/4-5",
+      "inspection": "opened_text",
+      "evidence": "Korean update title April 5, 2017. This is the client patch, not the UnGoro expansion unlock on April 7."
+    },
+    "8.0_contemporary": {
+      "url": "https://www.inven.co.kr/webzine/news/?news=175598",
+      "inspection": "indexed_excerpt",
+      "evidence": "Contemporary Korean article says the patch applied April 5, before UnGoro releases April 7."
+    },
+    "8.4": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/20904301/爐石戰記更新-7-月-11-日-2017-7-11",
+      "inspection": "opened_text",
+      "evidence": "Korean title July 11, 2017; explicitly lists Hallazeal among five existing minions gaining Elemental. Displayed publication metadata is July 10."
+    },
+    "9.0": {
+      "url": "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9",
+      "inspection": "opened_text",
+      "evidence": "Korean title August 9, 2017. Fandral text changes to apply to all Choose One abilities; Frozen Throne unlock is separately August 11."
+    },
+    "10.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/21274279/12-7",
+      "inspection": "opened_text",
+      "evidence": "Korean title December 7, 2017. Kobolds expansion opens December 8."
+    },
+    "11.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/21694420",
+      "inspection": "opened_text",
+      "evidence": "Korean title April 11, 2018; Witchwood unlock April 13. Old-card changes apply with the patch, not rotation."
+    },
+    "12.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/22546493",
+      "inspection": "opened_text",
+      "evidence": "Korean title October 3, 2018; patch deployment, not the later Halloween event."
+    },
+    "12.2_contemporary": {
+      "url": "https://www.inven.co.kr/webzine/news/?news=208062&vtype=pc",
+      "inspection": "indexed_excerpt",
+      "evidence": "Contemporary Korean report explicitly says patch 12.2 applied October 3."
+    },
+    "12.2_build": {
+      "url": "https://github.com/HearthSim/hsdata/commit/60ceb7f7842724699adb79bee462d870b841de09",
+      "inspection": "commit_metadata_and_README_diff_verified",
+      "evidence": "Commit message: Update to patch 12.2.0.26757. README version changes 12.0.0.25770 to 12.2.0.26757. Build 26757 is not an unexplained earlier patch."
+    },
+    "12.2_jp": {
+      "url": "https://hs-exp.jp/2018-10-03/news-patch-12-2/",
+      "inspection": "opened_text",
+      "evidence": "Contemporary Japanese title uses 12.2.0.26757 and says deployment early October 3 JST. Body mistakenly retains 12.0.0.25770; do not use that body version string as authoritative or JST alone as Korean evidence."
+    },
+    "14.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/22933721",
+      "inspection": "opened_text",
+      "evidence": "Korean title May 15, 2019; adventure opens May 17. Explicit Nat the Darkfisher probability fix. The six choice-option mana costs are not itemized in prose."
+    },
+    "15.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23097372",
+      "inspection": "opened_text",
+      "evidence": "Korean title September 11, 2019; Tombs of Terror unlock September 18. Discover class weighting removed with the patch."
+    },
+    "16.6": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23319440",
+      "inspection": "opened_text",
+      "evidence": "Korean title March 18, 2020; Call of the Wild 9 to 8 and Yogg continues casting after leaving the battlefield."
+    },
+    "18.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23463127",
+      "inspection": "opened_text",
+      "evidence": "18.0 applies today; Scholomance cards remain locked until August 7. Displayed metadata July 30 is not standalone Korean date proof."
+    },
+    "18.0_kr": {
+      "url": "https://www.inven.co.kr/board/hs/3508/16549?p=84",
+      "inspection": "indexed_excerpt_only_full_open_failed",
+      "evidence": "Contemporary Korean 18.0 notes posted 2020-07-31 02:02 and link official 23463127. Full page retrieval failed; images uninspected."
+    },
+    "18.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23509390",
+      "inspection": "opened_text",
+      "evidence": "18.2 patch features and Forbidden Library begin September 9; separate solo adventure September 16. Publication September 3 is an announcement date."
+    },
+    "18.2_kr": {
+      "url": "https://hmseo91.tistory.com/972",
+      "inspection": "opened_text",
+      "evidence": "Korean report posted September 15 explicitly says 18.2 applied September 9, 2020. Retrospective by six days, not same-day publication."
+    },
+    "20.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23642550",
+      "inspection": "opened_text",
+      "evidence": "Explicitly says the March 26 patch adds schools to 545 previously released Standard and Wild spells. Core and expansion rotation March 31 is separate."
+    },
+    "24.0.3": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23840665",
+      "inspection": "opened_text",
+      "evidence": "Stand Against Darkness mana 5 to 4 is explicitly itemized."
+    },
+    "24.0.3_kr": {
+      "url": "https://www.inven.co.kr/board/hs/3508/19122",
+      "inspection": "indexed_excerpt",
+      "evidence": "Contemporary Korean notes timestamped 2022-08-17 01:01."
+    },
+    "24.0.3_report": {
+      "url": "https://hmseo91.tistory.com/1891",
+      "inspection": "opened_text",
+      "evidence": "Report posted September 14 explicitly says the patch applied August 17. Later retrospective, not same-day; pictures uninspected."
+    },
+    "25.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23882860",
+      "inspection": "opened_text",
+      "evidence": "Adds Undead and dual-type tags to previously released cards with 25.0. Text explicitly dates 25.0 to November 30; Lich King expansion and Death Knight unlock December 7 are separate."
+    },
+    "25.0_kr": {
+      "url": "https://www.inven.co.kr/board/hs/3508/19396",
+      "inspection": "indexed_excerpt",
+      "evidence": "Korean post at 2022-11-29 03:01 says 25.0 applies tomorrow, supporting November 30."
+    },
+    "26.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23934449",
+      "inspection": "opened_text",
+      "evidence": "Explicitly separates adjusted Core card changes April 5 from additions and removals April 12."
+    },
+    "27.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23987537",
+      "inspection": "opened_text",
+      "evidence": "27.2 begins August 23 KST and buffs existing Wild cards immediately; COT releases September 1. Named list gives 111 reprinted-card changes."
+    },
+    "cot_originals": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23987538",
+      "inspection": "opened_text_images_not_inspected",
+      "evidence": "113 reprints comprise 111 listed changes and two larger reworks shown as images. Original owned versions update at 27.2 and are immediately usable in Wild before COT release. Both rework images failed retrieval; visual contents were not verified."
+    },
+    "chogall": {
+      "url": "https://outof.games/realms/hearthstone/patches/240-battlegrounds-season-5",
+      "inspection": "indexed_excerpt",
+      "evidence": "27.2 listing includes ChoGall reworked to 8 mana 8/8, returning discarded cards which cost Health. Original-ID archives supply the decisive identity and stat evidence."
+    },
+    "27.4.2": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/23999072",
+      "inspection": "opened_text",
+      "evidence": "Blade of CThun mana 6 to 7 explicitly itemized. Displayed September 28 is not the Korean effective date."
+    },
+    "27.4.2_kr": {
+      "url": "https://www.inven.co.kr/board/hs/3508/20029",
+      "inspection": "opened_text",
+      "evidence": "Contemporary Korean post timestamped 2023-09-29 04:01 reproduces the today deployment statement."
+    },
+    "29.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24064735",
+      "inspection": "opened_text",
+      "evidence": "Explicit today March 12, 2024 and schedule lists 29.0 patch and Core/non-Core balance changes March 12. Rotation March 20 is separate."
+    },
+    "31.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24149389",
+      "inspection": "opened_text",
+      "evidence": "31.0 patch explicitly October 30, 2024; The Great Dark Beyond unlock November 6 is separate. OG_221 Draenei attribution comes from original archive delta, not Core/reprint inference."
+    },
+    "32.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24187196",
+      "inspection": "opened_text",
+      "evidence": "Card changes apply March 19, 2025; Core rotation March 26 is separate. Also explicitly introduces a 10-mana upper limit for evolve effects."
+    },
+    "combined_druid": {
+      "url": "https://hearthstone.wiki.gg/wiki/Druid_of_the_Claw_%28Combined%29",
+      "inspection": "indexed_excerpt",
+      "evidence": "Exact original OG_044a / 38319: 20.0 attack 4 to 5 and Charge replaced by Rush; 26.0 mana 5 to 6, attack 5 to 7, health 6 to 9. Not a Core-only record."
+    },
+    "slime_mire": {
+      "url": "https://hearthstone.wiki.gg/wiki/Slime_%28Mire_Keeper%29",
+      "inspection": "indexed_excerpt",
+      "evidence": "Exact OG_202c / 38921 cost 1 to 2 in 6.0.0.13921."
+    },
+    "37.0": {
+      "url": "https://hearthstone.blizzard.com/ko-kr/news/24301454",
+      "inspection": "opened_text",
+      "evidence": "Explicitly states 37.0 deploys October 14, 2026. Prerelease event paragraph gives 02:00 KST; October 21 expansion unlock is separate."
+    },
+    "17.0": {
+      "url": "https://news.blizzard.com/ko-kr/article/23357896/17-0-3-27",
+      "inspection": "opened_text",
+      "evidence": "Korean title explicitly March 27, 2020 and introduction says patch 17.0 applies today. Demon Hunter prologue April 3 and expansion/class unlock April 8 are separate."
+    }
+  },
+  "additionalFunctionalScopeNotes": [
+    {
+      "effectiveDateKST": "2024-10-30",
+      "patch": "31.0.0.210009",
+      "source": "31.0",
+      "scope": "CThun-related cards as a family",
+      "change": "Cards in this family can be generated, discovered or transformed into only when a related card was in the starting deck.",
+      "limits": "Official rule text inspected. Do not invent per-card printed-text changes; exact family membership requires separate card-tag evidence."
+    }
+  ],
+  "evidenceLimits": [
+    "Comprehensive numeric and text migration is outside this independent date report.",
+    "The source registry distinguishes opened text from indexed excerpts. No uninspected image proves exact card stats.",
+    "The two COT rework images failed retrieval. ChoGall original archives plus textual secondary evidence support the rework; announcement prose establishes immediate original-card timing.",
+    "Foreign-calendar publication timestamps are not Korean deployment proof. Explicit Korean headings, deployment statements and contemporary Korean reports take precedence.",
+    "Archive derivatives were inspected with original XML sources retained; not every complete original XML was independently downloaded a second time. Build 26757 commit/README mapping was verified and corroborated by contemporary 12.2 reporting.",
+    "Choice-option mana cost changes are original archive attributes with a verified patch date; official prose does not list the six changes.",
+    "Late builder placeholders and localization markup changes do not justify invented gameplay events.",
+    "Build 33717 is 15.2, not 15.0; 54613 is 18.0, not 17.6; 58213 is 18.2, not 18.4."
+  ]
+}

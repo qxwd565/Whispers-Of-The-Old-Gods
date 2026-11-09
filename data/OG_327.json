@@ -1,1 +1,19 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_327","dbfId":39003,"name":"스멀거리는 촉수","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>도발</b>","attack":2,"health":4,"durability":0,"armor":0,"flavor":"네, 우선 저 촉수부터 처치하는 게 좋을 것 같군요.","spellSchool":"","portrait":"HS7_044_D.psd:f20a8c611f9568b429fea64a33ae987b","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_327.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7_044_D.psd:f20a8c611f9568b429fea64a33ae987b","goldenMaterial":"OG_327_PremiumCard.mat:55efd0bbd40db2a469a6c51b851d8a4e","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_327",
+    "dbfId": 39003,
+    "name": "스멀거리는 촉수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>도발</b>",
+    "attack": 2,
+    "health": 4,
+    "mechanics": [
+      "TAUNT"
+    ]
+  }
+}

@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_195","dbfId":38655,"name":"고대 신의 위습","type":"SPELL","cardClass":"DRUID","rarity":"EPIC","collectible":true,"cost":7,"text":"<b>선택 -</b> 1/1 위습을 7마리 소환합니다.\n또는 내 하수인들에게 +2/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"사실 보통 위습이랑 다를 바가 없습니다. \"고대 신의\"라는 호칭이 몸값을 올려줘서 선택했다고 하는군요.","spellSchool":"NATURE","portrait":"HS7-149_D.psd:afb8920186dc94146ac3abdb58cec80b","set":"OG","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":443,"name":"선택","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/OG_195.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-149_D.psd:afb8920186dc94146ac3abdb58cec80b","goldenMaterial":"OG_195_PremiumCard.mat:bb4feaec643b9b344bde3b40e4981f51","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_195",
+    "dbfId": 38655,
+    "name": "고대 신의 위습",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>선택 -</b> 1/1 위습을 7마리 소환합니다. 또는 내 하수인들에게 +2/+2를 부여합니다.",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>선택 -</b> 1/1 위습을 7마리 소환합니다.<br></br>또는 내 하수인들에게 +2/+2를 부여합니다."
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE"
+  }
+}

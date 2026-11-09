@@ -1,1 +1,25 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_272","dbfId":38833,"name":"황혼의 소환사","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>죽음의 메아리:</b>\n5/5 얼굴 없는 파괴자를 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"그를 쓰러뜨리면 그는 당신이 상상할 수도 없을 만큼 강해집니다.","spellSchool":"","portrait":"HS7-179_D.psd:848f31210ab63d944ae23f89b438e475","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38999}],"races":[],"race":"","classes":[],"art":"art/OG_272.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-179_D.psd:848f31210ab63d944ae23f89b438e475","goldenMaterial":"OG_272_PremiumCard.mat:84c1375cb447bf340b149207d682d599","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_272",
+    "dbfId": 38833,
+    "name": "황혼의 소환사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b> 5/5 얼굴 없는 파괴자를 하나 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "mechanics": [
+      "DEATHRATTLE"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>죽음의 메아리:</b><br></br>5/5 얼굴 없는 파괴자를 하나 소환합니다."
+  },
+  "2018-10-03": {
+    "text": "<b>죽음의 메아리:</b><br></br>5/5 얼굴 없는 파괴자를 소환합니다."
+  }
+}

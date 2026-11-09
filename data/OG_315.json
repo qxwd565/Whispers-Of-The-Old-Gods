@@ -1,1 +1,26 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_315","dbfId":38920,"name":"붉은해적단 이교도","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 내 전장에 다른 해적이 있으면, 내 무기에 +1/+1을 부여합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"사실 붉은앵무를 얻기 위해 해적단에 든 것 뿐입니다.","spellSchool":"","portrait":"HS7-164_D.psd:65cb3e56216694f4ebdba84c99dcaef6","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["PIRATE"],"race":"해적","classes":[],"art":"art/OG_315.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-164_D.psd:65cb3e56216694f4ebdba84c99dcaef6","goldenMaterial":"OG_315_PremiumCard.mat:991c2a9da25e1d54e873557861cf4950","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_315",
+    "dbfId": 38920,
+    "name": "붉은해적단 이교도",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 내 전장에 해적이 있으면, 내 무기에 +1/+1을 부여합니다.",
+    "attack": 3,
+    "health": 4,
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "mechanics": [
+      "BATTLECRY"
+    ]
+  },
+  "2016-08-10": {
+    "text": "<b>전투의 함성:</b> 내 전장에 다른 해적이 있으면, 내 무기에 +1/+1을 부여합니다."
+  }
+}

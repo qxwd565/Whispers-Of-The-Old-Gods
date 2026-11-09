@@ -1,0 +1,17 @@
+{
+  "result": "pass",
+  "php": "8.5.12",
+  "runtimePackage": "@php-wasm/cli@3.1.63",
+  "checks": 13530,
+  "importedCards": 163,
+  "repository": "qxwd565/frame",
+  "repositoryId": 1450385619,
+  "historicalRepositoryName": "qxwd565/HSdeck-plugin",
+  "pluginCommit": "78ce6fdc4e70f689880a70d6f22aa77a6c75e337",
+  "verifiedBlobs": {
+    "includes/class-card-history.php": "e2382b0d1f25aa3ab27f6adce096f8d3f58d013f",
+    "includes/class-set-api.php": "1e26fd05afc62278d49af12ad07dddd5fc043dd4"
+  },
+  "comparison": "Original current import with individually recorded display normalization and first-use metadata; all dated schema1 expectations checked using the pinned unmodified PHP files.",
+  "scope": "Offline unchanged PHP parser, not live WordPress/rendering/site/import/database proof. Current plugin files and site state are not changed."
+}

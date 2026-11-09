@@ -1,1 +1,26 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_218","dbfId":38738,"name":"블러드후프 용사","type":"MINION","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>도발</b>\n피해를 받은 상태면 공격력을 +3 얻습니다.","attack":2,"health":6,"durability":0,"armor":0,"flavor":"10점 만점에 12점인 진짜 용사입니다.","spellSchool":"","portrait":"HS7-157_D.psd:a65dd9efcffc8db48bad60f4d0a64aae","set":"OG","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":212,"name":"격노","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_218.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-157_D.psd:a65dd9efcffc8db48bad60f4d0a64aae","goldenMaterial":"OG_218_PremiumCard.mat:aa535b2e6332f014a88e2099dde8a906","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_218",
+    "dbfId": 38738,
+    "name": "블러드후프 용사",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>도발</b><br></br><b>격노:</b> 공격력 +3",
+    "attack": 2,
+    "health": 6,
+    "mechanics": [
+      "ENRAGED",
+      "TAUNT"
+    ]
+  },
+  "2018-04-11": {
+    "text": "<b>도발</b><br></br>피해를 받은 상태면 공격력을 +3 얻습니다.",
+    "mechanics": [
+      "TAUNT"
+    ]
+  }
+}

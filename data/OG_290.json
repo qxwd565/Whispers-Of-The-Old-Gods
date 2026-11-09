@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_290","dbfId":38873,"name":"고대의 선구자","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":6,"text":"[x]내 턴이 시작될 때,\n내 덱에서 비용이 10인\n하수인을 내 손으로\n가져옵니다.","attack":4,"health":6,"durability":0,"armor":0,"flavor":"\"여보, 잠깐 상점에 가서 비용이 10인 하수인 하나만 구해다줄래? 고마워.\"","spellSchool":"","portrait":"HS7-144_D.psd:ce36f065e17892143bf18056b25413b3","set":"OG","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_290.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-144_D.psd:ce36f065e17892143bf18056b25413b3","goldenMaterial":"OG_290_PremiumCard.mat:94ba9a9a675ba1c4889a3914a805a68b","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_290",
+    "dbfId": 38873,
+    "name": "고대의 선구자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "내 턴이 시작될 때, 내 덱에 있는 비용이 10인 하수인 하나를 내 손으로 가져옵니다.",
+    "attack": 4,
+    "health": 6,
+    "mechanics": []
+  },
+  "2016-11-30": {
+    "text": "내 턴이 시작될 때, 내 덱에서 비용이 10인 하수인 하나를 내 손으로 가져옵니다."
+  },
+  "2018-10-03": {
+    "text": "내 턴이 시작될 때,<br></br>내 덱에서 비용이 10인<br></br>하수인을 내 손으로<br></br>가져옵니다."
+  }
+}

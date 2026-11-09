@@ -1,1 +1,23 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"OG_302","dbfId":38898,"name":"저승의 안내인","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":4,"text":"하수인이 죽을 때마다\n내 크툰에게 +1/+1을 부여합니다.\n<i>(어디에 있든)</i>","attack":3,"health":5,"durability":0,"armor":0,"flavor":"길 잃은 영혼들을 친절히 안내하여 크툰에게 제물로 바칩니다.","spellSchool":"","portrait":"HS7-022_D.psd:8338eabc1c96a2d45b2e56172a6fe543","set":"OG","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":38857},{"id":3078,"name":"RITUALIST_MINION","value":1},{"id":3633,"name":"게임 태그 3633","value":1}],"races":[],"race":"","classes":[],"art":"art/OG_302.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-022_D.psd:8338eabc1c96a2d45b2e56172a6fe543","goldenMaterial":"OG_302_PremiumCard.mat:d060feacc28ba924dba62fd240c4378d","goldenAnimation":""}}
+{
+  "2016-04-27": {
+    "id": "OG_302",
+    "dbfId": 38898,
+    "name": "저승의 안내인",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "아군 하수인이 죽을 때마다 내 크툰에게 +1/+1을 부여합니다.<br></br><i>(어디에 있든)</i>",
+    "attack": 5,
+    "health": 6,
+    "mechanics": []
+  },
+  "2023-08-23": {
+    "cost": 4,
+    "text": "하수인이 죽을 때마다<br></br>내 크툰에게 +1/+1을 부여합니다.<br></br><i>(어디에 있든)</i>",
+    "attack": 3,
+    "health": 5
+  }
+}
